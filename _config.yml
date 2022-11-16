@@ -16,11 +16,11 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://mjn2max.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
