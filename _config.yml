@@ -18,7 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: false
 resume-external: false
-resume-url: https://google.com/?q=my+resume
+resume-url: https://google.com/?q=mjn2max
 
 url: https://mjn2max.github.io/
 # your url: https://USERNAME.github.io
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+facebook: mjn2max
+twitter: mjn2max
+instagram: mjn2max
+linkedin: mjn2max
+github: mjn2max
+email: mjn2max@gmail.com
 
 authors:
   johndoe:
