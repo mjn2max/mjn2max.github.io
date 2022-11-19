@@ -5,14 +5,9 @@ layout: page
 
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Developer with 5+ years of experience in commercial application and software development.</p>
+<p>Passionate Apple user, iOS Developer with 5+ years of experience in mobile application development and software engineering. Loves learning new technologies and revisiting fundamental concepts. When not working as an iOS Developer, I enjoy being a music producer and travelling.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>On Twitter, while being mainly read-only, I can be found at <a href="https://twitter.com/mjn2max" target="_blank">@mjn2max</a>. The rest of my professional life can be found at <a href="https://mjn2max.com" target="_blank">mjn2max.com</a></p>
 
 <h2>Skills</h2>
 
