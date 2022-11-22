@@ -7,8 +7,6 @@ layout: page
 
 <p>Passionate Apple user, iOS Developer with 5+ years of experience in mobile application development and software engineering. Loves learning new technologies and revisiting fundamental concepts. When not working as an iOS Developer, I enjoy being a music producer and travelling.</p>
 
-<p>On Twitter, while being mainly read-only, I can be found at <a href="https://twitter.com/mjn2max" target="_blank">@mjn2max</a>. The rest of my professional life can be found at <a href="https://mjn2max.com" target="_blank">mjn2max.com</a></p>
-
 <h2>Skills</h2>
 
 <ul class="skill-list">
