@@ -5,7 +5,7 @@ layout: page
 
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Passionate Apple user, iOS Developer with 5+ years of experience in mobile application development and software engineering. Loves learning new technologies and revisiting fundamental concepts. When not working as an iOS Developer, I enjoy being a music producer and travelling.</p>
+<p>Passionate Apple user, iOS Developer with 5+ years of experience in mobile application development and software engineering. Loves learning new technologies and revisiting fundamental concepts. When not programming, I enjoy being a music producer and travelling.</p>
 
 <h2>Skills</h2>
 
