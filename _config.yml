@@ -10,9 +10,9 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
-# your site color theme, true for dark theme, 
+# your site color theme, true for dark theme,
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -26,11 +26,11 @@ url: https://mjn2max.github.io/
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: "G-4K1PK90RC1"
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: github # enter this from your disqus account
+  shortname: mjn2max # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -42,18 +42,12 @@ github: mjn2max
 email: mjn2max@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  mjn2max:
+    name: Min Min
+    bio: Developer
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: mjn2max
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -117,11 +111,4 @@ compress_html:
       - development
       - stage
 
-exclude:
-  [
-    "README.md",
-    "Gemfile",
-    "Gemfile.lock",
-    "FAQ.md",
-    "vendor",
-  ]
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "FAQ.md", "vendor"]
