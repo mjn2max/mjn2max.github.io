@@ -1,39 +1,124 @@
 <!-- To add more icons, duplicate a section and find yout icon here -> https://fontawesome.com/v6.0/icons -->
 
 <div class="social-links">
-    {% if site.facebook %}
-        <a class="link" data-title="facebook.com/{{ site.facebook }}" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">
-            <i class="fa-brands fa-facebook"></i>
-        </a>
-    {% endif %}
-
-    {% if site.twitter %}
-        <a class="link" data-title="twitter.com/{{ site.twitter }}" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">
-            <i class="fa-brands fa-twitter"></i>
-        </a>
-    {% endif %}
-
-    {% if site.instagram %}
-        <a class="link" data-title="instagram.com/{{ site.instagram }}" href="https://instagram.com/{{ site.instagram }}" target="_blank"  rel="noopener">
-            <i class="fa-brands fa-instagram"></i>
-        </a>
-    {% endif %}
-
-    {% if site.linkedin %}
-        <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank"  rel="noopener">
-            <i class="fa-brands fa-linkedin"></i>
-        </a>
-    {% endif %}
-
-    {% if site.github %}
-        <a class="link" data-title="github.com/{{ site.github }}" href="https://github.com/{{ site.github }}" target="_blank"  rel="noopener">
-            <i class="fa-brands fa-github"></i>
-        </a>
-    {% endif %}
-
-    {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}"  rel="noopener">
-            <i class="fa-regular fa-envelope"></i>
-        </a>
-    {% endif %}
+  {% if site.facebook %}
+  <a
+    class="link"
+    data-title="facebook.com/{{ site.facebook }}"
+    href="https://facebook.com/{{ site.facebook }}"
+    target="_blank"
+    rel="noopener"
+  >
+    <i class="fa-brands fa-facebook"></i>
+  </a>
+  {% endif %} {% if site.twitter %}
+  <a
+    class="link"
+    data-title="twitter.com/{{ site.twitter }}"
+    href="https://twitter.com/{{ site.twitter }}"
+    target="_blank"
+    rel="noopener"
+  >
+    <i class="fa-brands fa-twitter"></i>
+  </a>
+  {% endif %} {% if site.instagram %}
+  <a
+    class="link"
+    data-title="instagram.com/{{ site.instagram }}"
+    href="https://instagram.com/{{ site.instagram }}"
+    target="_blank"
+    rel="noopener"
+  >
+    <i class="fa-brands fa-instagram"></i>
+  </a>
+  {% endif %} {% if site.linkedin %}
+  <a
+    class="link"
+    data-title="linkedin.com/in/{{ site.linkedin }}"
+    href="https://www.linkedin.com/in/{{ site.linkedin }}"
+    target="_blank"
+    rel="noopener"
+  >
+    <i class="fa-brands fa-linkedin"></i>
+  </a>
+  {% endif %} {% if site.github %}
+  <a
+    class="link"
+    data-title="github.com/{{ site.github }}"
+    href="https://github.com/{{ site.github }}"
+    target="_blank"
+    rel="noopener"
+  >
+    <i class="fa-brands fa-github"></i>
+  </a>
+  {% endif %} {% if site.youtube %}
+  <a
+    class="link"
+    data-title="youtube.com/@{{ site.youtube }}"
+    href="https://youtube.com/@{{ site.youtube }}"
+    target="_blank"
+    rel="noopener"
+  >
+    <i class="fa-brands fa-youtube"></i>
+  </a>
+  {% endif %} {% if site.appstore %}
+  <a
+    class="link"
+    data-title="apps.apple.com/developer/{{ site.appstore }}"
+    href="https://apps.apple.com/developer/{{ site.appstore }}"
+    target="_blank"
+    rel="noopener"
+  >
+    <i class="fa-brands fa-apple"></i>
+  </a>
+  {% endif %} {% if site.playstore %}
+  <a
+    class="link"
+    data-title="play.google.com/store/apps/dev?id={{ site.playstore }}"
+    href="https://play.google.com/store/apps/dev?id={{ site.playstore }}"
+    target="_blank"
+    rel="noopener"
+  >
+    <i class="fa-brands fa-android"></i>
+  </a>
+  {% endif %} {% if site.buymeacoffee %}
+  <a
+    class="link"
+    data-title="buymeacoffee.com/{{ site.buymeacoffee }}"
+    href="https://buymeacoffee.com/{{ site.buymeacoffee }}"
+    target="_blank"
+    rel="noopener"
+  >
+    <i class="fa-solid fa-mug-saucer"></i>
+  </a>
+  {% endif %} {% if site.email %}
+  <a
+    class="link"
+    data-title="{{ site.email }}"
+    href="mailto:{{ site.email }}"
+    rel="noopener"
+  >
+    <i class="fa-regular fa-envelope"></i>
+  </a>
+  {% endif %} {% if site.website1 %}
+  <a
+    class="link"
+    data-title="{{ site.website1 }}"
+    href="https://{{ site.website1 }}"
+    target="_blank"
+    rel="noopener"
+  >
+    <i class="fa-solid fa-up-right-from-square"></i>
+  </a>
+  {% endif %} {% if site.website2 %}
+  <a
+    class="link"
+    data-title="{{ site.website2 }}"
+    href="https://{{ site.website2 }}"
+    target="_blank"
+    rel="noopener"
+  >
+    <i class="fa-solid fa-up-right-from-square"></i>
+  </a>
+  {% endif %}
 </div>
