@@ -7,7 +7,7 @@ layout: page
 
 <p>Hello Friends,</p>
 
-<p>I'm an Apple user, and iOS Developer with 5+ years of experience in mobile application development and software engineering. Loves learning new technologies and revisiting fundamental concepts. When not programming, I enjoy being a music producer and traveling.</p>
+<p>I'm an Apple user, and iOS Developer with 5+ years of experience in mobile application development and software engineering. Loves learning new technologies and revisiting fundamental concepts. When not programming, I enjoy listening to music and traveling.</p>
 
 <p>I’m currently maintaining two websites <a href="https://mjn2max.com/">mjn2max.com</a> and <a href="https://codepassion.dev/">codepassion.dev</a> which help keep software engineering knowledge simple and organized. If you like what I’m doing, or found something nice on my website, you can buy me a coffee to support my work <a href="https://buymeacoffee.com/mjn2max/">here</a>.</p>
 
