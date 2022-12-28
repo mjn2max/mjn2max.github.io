@@ -1,7 +1,7 @@
 ---
 title: "iOS Development Getting Started"
 layout: post
-date: 2022-12-11 22:48
+date: 2022-12-26 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -13,197 +13,128 @@ author: mjn2max
 description: This is a brief article showing some of the minimum requirements you should preapre to become an iOS Developer.
 ---
 
-## Summary:
+## Foreword:
 
-You can pick as item to see how to apply in markdown.
+This is a brief article showing some of the minimum requirements you should preapre to become an iOS Developer.
 
-#### Especial Elements
-
-- [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
-
-#### External Elements
-
-- [Gist](#gist)
-- [Codepen](#codepen)
-- [Slideshare](#slideshare)
-- [Videos](#videos)
-
----
-
-## Evidence
-
-You can try the evidence!
-
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
-
-{% highlight html %}
-<span class="evidence">Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.</span>
-{% endhighlight %}
-
----
-
-## Side-by-side
-
-Like the [Medium](https://medium.com/) component.
-
-**Image** on the left and **Text** on the right:
-
-{% highlight html %}
+### Mac Computer
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+        <p>Firstly, you must have the <a href="https://www.apple.com/mac/" target="_blank">Mac computer</a>. You have to buy a Macbook Pro or any kind of macOS computer family like Mac Mini, Mac Pro, Macbook Air.</p>
+        <p>I strongly recommend the computer should be at least 16GB of RAM and running the latest macOS version.</p>
     </div>
 
     <div class="toright">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-
-</div>
-{% endhighlight %}
-
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
-
-    <div class="toright">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-
-</div>
-
-**Text** on the left and **Image** on the right:
-
-{% highlight html %}
-
-<div class="side-by-side">
-    <div class="toleft">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-
-    <div class="toright">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
-    </div>
-
-</div>
-{% endhighlight %}
-
-<div class="side-by-side">
-    <div class="toleft">
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-
-    <div class="toright">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
-        <figcaption class="caption">Photo by John Doe</figcaption>
+        <img class="image" src="/assets/blog/macbook-pro.jpg" alt="Alt Text">
+        <figcaption class="caption">MacBook Pro 15-inch</figcaption>
     </div>
 
 </div>
 
 ---
 
-## Star
+### Apple iOS Device
 
-You can give evidence to a post. Just add the tag to the markdown file.
+<div class="side-by-side">
+    <div class="toleft">
+    <img class="image" src="/assets/blog/iphone-ipad-watch.jpg" alt="Alt Text">
+        <figcaption class="caption">iPhone, iPad, and Apple Watch</figcaption>
+    </div>
 
-{% highlight raw %}
-star: true
-{% endhighlight %}
+    <div class="toright">
+        <p>This is a recommendation, you should have the physical iOS devices like <a href="https://www.apple.com/iphone/" target="_blank">iPhones</a>, <a href="https://www.apple.com/ipad/" target="_blank">iPads</a>, or <a href="https://www.apple.com/watch/" target="_blank">Apple Watch</a> if you are going to develop Watch Apps.</p>
+        <p>It's sound like a lot when you are get started the journey but it will be worth it.</p>
+    </div>
 
----
-
-## Especial Breaker
-
-You can add a especial _hr_ to your text.
-
-{% highlight html %}
-
-<div class="breaker"></div>
-{% endhighlight %}
-
-<div class="breaker"></div>
+</div>
 
 ---
 
-## Spoiler
+### Apple Develop Account
 
-You can add an especial hidden content that appears on hover.
+<div class="side-by-side">
+    <div class="toleft">
+        <p>If you haven't enroll the Apple Developer Program yet, start now from <a href="https://developer.apple.com/programs/enroll/" target="_blank">Apple Developer Program</a> and resgister one.</p>
+        <p>Basically, you could use a free account. But in order to submit your apps to the App Store, you must enroll the paid account which is $99/year.</p>
+    </div>
 
-{% highlight html %}
+    <div class="toright">
+        <img class="image" src="/assets/blog/apple-developer-account.png" alt="Alt Text">
+        <figcaption class="caption">Apple Developer Account</figcaption>
+    </div>
 
-<div class="spoiler"><p>your content</p></div>
-{% endhighlight %}
-
-<div class="spoiler"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div>
-
----
-
-## Gist
-
-You can add Gists from github.
-
-{% highlight raw %}
-{ % gist sergiokopplin/91ff4220480727b47224245ee2e9c291 % }
-{% endhighlight %}
-
-{% gist sergiokopplin/91ff4220480727b47224245ee2e9c291 %}
+</div>
 
 ---
 
-## Codepen
+### Xcode
 
-You can add Pens from Codepen.
+<div class="side-by-side">
+    <div class="toleft">
+    <img class="image" src="/assets/blog/xcode-welcome.png" alt="Alt Text">
+        <figcaption class="caption">Xcode IDE</figcaption>
+    </div>
 
-{% highlight html %}
+    <div class="toright">
+        <p>Install <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a> from the Mac App Store, that's the IDE that you will use to develop Apple native applications including iOS, macOS, tvOS, and watchOS applications.</p>
+    </div>
 
-<p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>
-    See the Pen <a href='https://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of the Book Cover of *The Flame Alphabet*</a> by Chris Coyier (<a href='https://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='https://codepen.io'>CodePen</a>.
-</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-{% endhighlight %}
-
-<p data-height="268" data-theme-id="0" data-slug-hash="gfdDu" data-default-tab="result" data-user="chriscoyier" class='codepen'>See the Pen <a href='https://codepen.io/chriscoyier/pen/gfdDu/'>Crappy Recreation of the Book Cover of *The Flame Alphabet*</a> by Chris Coyier (<a href='https://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
----
-
-## Slideshare
-
-Add your presentations here!
-
-{% highlight html %}
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-{% endhighlight %}
-
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l" width="560" height="310" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</div>
 
 ---
 
-## Videos
+### Swift
 
-Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!
+<div class="side-by-side">
+    <div class="toleft">
+        <p><a href="https://swift.org" target="_blank">Swift</a> is a modern language, support new programming features, and has 4X faster build time than Objective-C.</p>
+        <p>Swift was designed to be a simple and understandable language. So, why don't use Swift?</p>
+    </div>
 
-**Example**
+    <div class="toright">
+        <img class="image" src="/assets/blog/swift-language-performance.png" alt="Alt Text">
+        <figcaption class="caption">Swift Programming Language</figcaption>
+    </div>
 
-{% highlight html %}
+</div>
 
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
-{% endhighlight %}
+---
 
-<iframe width="560" height="310" src="https://www.youtube.com/embed/r7XhWUDj-Ts" frameborder="0" allowfullscreen></iframe>
+### Let's Start Coding
 
-[1]: https://daringfireball.net/projects/markdown/
-[2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: https://www.markitdown.net/
-[4]: https://daringfireball.net/projects/markdown/basics
-[5]: https://daringfireball.net/projects/markdown/syntax
-[6]: https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+<div class="side-by-side">
+    <div class="toleft">
+    <img class="image" src="/assets/blog/craig-federighi.jpg" alt="Alt Text">
+        <figcaption class="caption">Let's Coding</figcaption>
+    </div>
+
+    <div class="toright">
+        <p>If all things are setted up, let's get started to build your very first Hello World application.</p>
+    			<p>Getting your hand dirty, start with small things and you will gain more a long the way.</p>
+    </div>
+
+</div>
+
+If you have troubles when getting started, let's check out some of the useful websites below (you will love it).
+
+1. [Kodeco](https://www.kodecode.com){:target="\_blank"}
+2. [AppCoda](https://www.appcoda.com){:target="\_blank"}
+3. [Apple Document](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html){:target="\_blank"}
+
+---
+
+### Submit To The App Store
+
+<div class="side-by-side">
+    <div class="toleft">
+        <p>Ensure your app was fully tested before submitting to the App Store.</p>
+        <p>Check out the <a href="https://developer.apple.com/ios/submit/" target="_blank">submit required</a> from Apple and follow the guidelines. Your app will be ready for reviewing and publishing.</p>
+    </div>
+
+    <div class="toright">
+        <img class="image" src="/assets/blog/app-store.png" alt="Alt Text">
+        <figcaption class="caption">App Store</figcaption>
+    </div>
+
+</div>

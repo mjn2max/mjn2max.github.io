@@ -1,4 +1,130 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-25T19:31:40-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2022-12-14T22:47:00-06:00</published><updated>2022-12-14T22:47:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-27T23:34:09-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">iOS Development Getting Started</title><link href="http://localhost:4000/ios-development-getting-started/" rel="alternate" type="text/html" title="iOS Development Getting Started" /><published>2022-12-26T22:48:00-06:00</published><updated>2022-12-26T22:48:00-06:00</updated><id>http://localhost:4000/ios-development-getting-started</id><content type="html" xml:base="http://localhost:4000/ios-development-getting-started/">&lt;h2 id=&quot;foreword&quot;&gt;Foreword:&lt;/h2&gt;
+
+&lt;p&gt;This is a brief article showing some of the minimum requirements you should preapre to become an iOS Developer.&lt;/p&gt;
+
+&lt;h3 id=&quot;mac-computer&quot;&gt;Mac Computer&lt;/h3&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;Firstly, you must have the &lt;a href=&quot;https://www.apple.com/mac/&quot; target=&quot;_blank&quot;&gt;Mac computer&lt;/a&gt;. You have to buy a Macbook Pro or any kind of macOS computer family like Mac Mini, Mac Pro, Macbook Air.&lt;/p&gt;
+        &lt;p&gt;I strongly recommend the computer should be at least 16GB of RAM and running the latest macOS version.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/macbook-pro.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;MacBook Pro 15-inch&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;apple-ios-device&quot;&gt;Apple iOS Device&lt;/h3&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+    &lt;img class=&quot;image&quot; src=&quot;/assets/blog/iphone-ipad-watch.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;iPhone, iPad, and Apple Watch&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;p&gt;This is a recommendation, you should have the physical iOS devices like &lt;a href=&quot;https://www.apple.com/iphone/&quot; target=&quot;_blank&quot;&gt;iPhones&lt;/a&gt;, &lt;a href=&quot;https://www.apple.com/ipad/&quot; target=&quot;_blank&quot;&gt;iPads&lt;/a&gt;, or &lt;a href=&quot;https://www.apple.com/watch/&quot; target=&quot;_blank&quot;&gt;Apple Watch&lt;/a&gt; if you are going to develop Watch Apps.&lt;/p&gt;
+        &lt;p&gt;It's sound like a lot when you are get started the journey but it will be worth it.&lt;/p&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;apple-develop-account&quot;&gt;Apple Develop Account&lt;/h3&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;If you haven't enroll the Apple Developer Program yet, start now from &lt;a href=&quot;https://developer.apple.com/programs/enroll/&quot; target=&quot;_blank&quot;&gt;Apple Developer Program&lt;/a&gt; and resgister one.&lt;/p&gt;
+        &lt;p&gt;Basically, you could use a free account. But in order to submit your apps to the App Store, you must enroll the paid account which is $99/year.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/apple-developer-account.png&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Apple Developer Account&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;xcode&quot;&gt;Xcode&lt;/h3&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+    &lt;img class=&quot;image&quot; src=&quot;/assets/blog/xcode-welcome.png&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Xcode IDE&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;p&gt;Install &lt;a href=&quot;https://developer.apple.com/xcode/&quot; target=&quot;_blank&quot;&gt;Xcode&lt;/a&gt; from the Mac App Store, that's the IDE that you will use to develop Apple native applications including iOS, macOS, tvOS, and watchOS applications.&lt;/p&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;swift&quot;&gt;Swift&lt;/h3&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;&lt;a href=&quot;https://swift.org&quot; target=&quot;_blank&quot;&gt;Swift&lt;/a&gt; is a modern language, support new programming features, and has 4X faster build time than Objective-C.&lt;/p&gt;
+        &lt;p&gt;Swift was designed to be a simple and understandable language. So, why don't use Swift?&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/swift-language-performance.png&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Swift Programming Language&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;lets-start-coding&quot;&gt;Let’s Start Coding&lt;/h3&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+    &lt;img class=&quot;image&quot; src=&quot;/assets/blog/craig-federighi.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Let's Coding&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;p&gt;If all things are setted up, let's get started to build your very first Hello World application.&lt;/p&gt;
+    			&lt;p&gt;Getting your hand dirty, start with small things and you will gain more a long the way.&lt;/p&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;If you have troubles when getting started, let’s check out some of the useful websites below (you will love it).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.raywenderlich.com&quot; target=&quot;\_blank&quot;&gt;Ray Wenderlich&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.appcoda.com&quot; target=&quot;\_blank&quot;&gt;AppCoda&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html&quot; target=&quot;\_blank&quot;&gt;Apple Document&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;submit-to-the-app-store&quot;&gt;Submit To The App Store&lt;/h3&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;Ensure your app was fully tested before submitting to the App Store.&lt;/p&gt;
+        &lt;p&gt;Check out the &lt;a href=&quot;https://developer.apple.com/ios/submit/&quot; target=&quot;_blank&quot;&gt;submit required&lt;/a&gt; from Apple and follow the guidelines. Your app will be ready for reviewing and publishing.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/app-store.png&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;App Store&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="ios" /><category term="development" /><category term="programming" /><summary type="html">Foreword:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2022-12-14T22:47:00-06:00</published><updated>2022-12-14T22:47:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
 
 &lt;p&gt;This note &lt;strong&gt;demonstrates&lt;/strong&gt; some of what &lt;a href=&quot;https://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; is &lt;em&gt;capable of doing&lt;/em&gt;.&lt;/p&gt;
 
@@ -514,170 +640,7 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
         &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#hamburguer__open&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;fast&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">iOS Development Getting Started</title><link href="http://localhost:4000/ios-development-getting-started/" rel="alternate" type="text/html" title="iOS Development Getting Started" /><published>2022-12-11T22:48:00-06:00</published><updated>2022-12-11T22:48:00-06:00</updated><id>http://localhost:4000/ios-development-getting-started</id><content type="html" xml:base="http://localhost:4000/ios-development-getting-started/">&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
-
-&lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
-
-&lt;h4 id=&quot;especial-elements&quot;&gt;Especial Elements&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#evidence&quot;&gt;Evidence&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#side-by-side&quot;&gt;Side-by-Side&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#star&quot;&gt;Star&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#especial-breaker&quot;&gt;Especial Breaker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#spoiler&quot;&gt;Spoiler&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;external-elements&quot;&gt;External Elements&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#gist&quot;&gt;Gist&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#codepen&quot;&gt;Codepen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#slideshare&quot;&gt;Slideshare&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#videos&quot;&gt;Videos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;evidence&quot;&gt;Evidence&lt;/h2&gt;
-
-&lt;p&gt;You can try the evidence!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.&lt;/span&gt;&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;evidence&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;side-by-side&quot;&gt;Side-by-side&lt;/h2&gt;
-
-&lt;p&gt;Like the &lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt; component.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Image&lt;/strong&gt; on the left and &lt;strong&gt;Text&lt;/strong&gt; on the right:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;side-by-side&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toleft&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/assets/images/profile.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Alt Text&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;caption&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Photo by John Doe&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toright&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;http://localhost:4000/assets/images/profile.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-    &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Text&lt;/strong&gt; on the left and &lt;strong&gt;Image&lt;/strong&gt; on the right:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;side-by-side&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toleft&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toright&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/assets/images/profile.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Alt Text&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;caption&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Photo by John Doe&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;http://localhost:4000/assets/images/profile.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
-    &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;star&quot;&gt;Star&lt;/h2&gt;
-
-&lt;p&gt;You can give evidence to a post. Just add the tag to the markdown file.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;star: true&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;especial-breaker&quot;&gt;Especial Breaker&lt;/h2&gt;
-
-&lt;p&gt;You can add a especial &lt;em&gt;hr&lt;/em&gt; to your text.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;breaker&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;spoiler&quot;&gt;Spoiler&lt;/h2&gt;
-
-&lt;p&gt;You can add an especial hidden content that appears on hover.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;spoiler&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;p&amp;gt;&lt;/span&gt;your content&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;spoiler&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;gist&quot;&gt;Gist&lt;/h2&gt;
-
-&lt;p&gt;You can add Gists from github.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;{ % gist sergiokopplin/91ff4220480727b47224245ee2e9c291 % }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;script src=&quot;https://gist.github.com/sergiokopplin/91ff4220480727b47224245ee2e9c291.js&quot;&gt; &lt;/script&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;codepen&quot;&gt;Codepen&lt;/h2&gt;
-
-&lt;p&gt;You can add Pens from Codepen.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;268&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-theme-id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-slug-hash=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gfdDu&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-default-tab=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;result&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-user=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;chriscoyier&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'codepen'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    See the Pen &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'https://codepen.io/chriscoyier/pen/gfdDu/'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Crappy Recreation of the Book Cover of *The Flame Alphabet*&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt; by Chris Coyier (&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'https://codepen.io/chriscoyier'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;@chriscoyier&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;) on &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'https://codepen.io'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;CodePen&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;.
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//assets.codepen.io/assets/embed/ei.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p data-height=&quot;268&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;gfdDu&quot; data-default-tab=&quot;result&quot; data-user=&quot;chriscoyier&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/chriscoyier/pen/gfdDu/&quot;&gt;Crappy Recreation of the Book Cover of *The Flame Alphabet*&lt;/a&gt; by Chris Coyier (&lt;a href=&quot;https://codepen.io/chriscoyier&quot;&gt;@chriscoyier&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;slideshare&quot;&gt;Slideshare&lt;/h2&gt;
-
-&lt;p&gt;Add your presentations here!&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;marginwidth=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;marginheight=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;scrolling=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;no&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l&quot; width=&quot;560&quot; height=&quot;310&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;videos&quot;&gt;Videos&lt;/h2&gt;
-
-&lt;p&gt;Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="ios" /><category term="development" /><category term="programming" /><summary type="html">Summary:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">:ramen: Indigo, minimalist jekyll theme</title><link href="http://localhost:4000/indigo-jekyll-theme/" rel="alternate" type="text/html" title=":ramen: Indigo, minimalist jekyll theme" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">:ramen: Indigo, minimalist jekyll theme</title><link href="http://localhost:4000/indigo-jekyll-theme/" rel="alternate" type="text/html" title=":ramen: Indigo, minimalist jekyll theme" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/indigo-jekyll-theme</id><content type="html" xml:base="http://localhost:4000/indigo-jekyll-theme/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;https://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
 
