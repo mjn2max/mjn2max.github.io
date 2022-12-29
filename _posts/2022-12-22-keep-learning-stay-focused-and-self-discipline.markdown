@@ -1,7 +1,7 @@
 ---
 title: "Keep Learning, Stay Focused, and Self-Discipline"
 layout: post
-date: 2022-12-13 22:45
+date: 2022-12-28 22:45
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -10,206 +10,56 @@ tag:
   - programming
 category: blog
 author: mjn2max
-description: Keep Learning, Stay Focused, and Self-Discipline
+description: It's important to keep yourself up to date with the fast changing technology. From that, you are ensuring your knowledge won't be out of date and you will stay on top of changing demands of the workplace.
 ---
 
-## Basic formatting
+### Foreword
 
-This note **demonstrates** some of what [Markdown][1] is _capable of doing_.
+It's important to keep yourself up to date with the fast changing technology. From that, you are ensuring your knowledge won't be out of date and you will stay on top of changing demands of the workplace.
 
-And that's how to do it.
-
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is _capable of doing_.
-{% endhighlight %}
+![Banner](../assets/blog/keep-up-to-date.jpeg)
 
 ---
 
-## Headings
+### 4 Ways to stay up to date on the latest Apple technology
 
-There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
+1. <a href="https://apps.apple.com/us/app/apple-developer/id640199958" target="_blank">Apple Developer:</a> available on macOS and iOS. Resources for developer stories, news, and educational information — and the best place to experience WWDC.
 
-# Headings can be small
+2. <a href="http://www.raywenderlich.com" target="_blank">raywenderlich.com:</a> The largest and most up-to-date collection of development courses on iOS, Swift, Android, Kotlin, Flutter, Server Side Swift, Unity and more.
 
-## Headings can be small
+3. <a href="https://www.appcoda.com" target="_blank">AppCoda:</a> how to build apps with high quality and easy-to-read tutorials.
 
-### Headings can be small
-
-#### Headings can be small
-
-{% highlight raw %}
-
-# Heading
-
-## Heading
-
-### Heading
-
-#### Heading
-
-{% endhighlight %}
+4. <a href="https://www.hackingwithswift.com" target="_blank">Hacking with Swift:</a> Programming is an art. Don't spend all your time sharpening your pencil when you should be drawing.
 
 ---
 
-## Lists
+### 4 Ways to stay up to date on the latest Android technology
 
-### Ordered list
+1. <a href="https://developers.google.com" target="_blank">Google Developers:</a> Engineering and technology articles for developers, written and curated by Googlers.
 
-1. Item 1
-2. A second item
-3. Number 3
+2. <a href="https://androidweekly.net" target="_blank">Android Weekly:</a> free newsletter that helps you to stay cutting-edge with your Android Development.
 
-{% highlight raw %}
+3. <a href="https://android-arsenal.com" target="_blank">Android Arsenal:</a> a categorized portal with tools, apps, directories and libraries for Android.
 
-1. Item 1
-2. A second item
-3. Number 3
-   {% endhighlight %}
-
-### Unordered list
-
-- An item
-- Another item
-- Yet another item
-- And there's more...
-
-{% highlight raw %}
-
-- An item
-- Another item
-- Yet another item
-- And there's more...
-  {% endhighlight %}
+4. <a href="https://blog.stylingandroid.com" target="_blank">Styling Android:</a> a technical guide to improving the UI and UX of Android apps.
 
 ---
 
-## Paragraph modifiers
+### Benefits
 
-### Quote
-
-> Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
-
-{% highlight raw %}
-
-> Here is a quote. What this is should be self explanatory.
-> {% endhighlight raw %}
-
----
-
-## URLs
-
-URLs can be made in a handful of ways:
-
-- A named link to [Mark It Down][3].
-- Another named link to [Mark It Down](https://google.com/)
-- Sometimes you just want a URL like <https://google.com/>.
-
-{% highlight raw %}
-
-- A named link to [MarkItDown][3].
-- Another named link to [MarkItDown](https://google.com/)
-- Sometimes you just want a URL like <https://google.com/>.
-  {% endhighlight %}
+<div class="side-by-side">
+	<div class="toleft">
+        <img class="image" src="/assets/blog/relax.jpg" alt="Alt Text">
+        <figcaption class="caption"></figcaption>
+    </div>
+    <div class="toright">
+			<ul>
+				<li>Inspiration for other people.</li><br>
+				<li>Confidence to handle any tasks.</li><br>
+				<li>Stay enthusiastic and flexible on your work.</li><br>
+				<li>More valuable to your team by contributing.</li>
+				</ul>
+    </div>
+</div>
 
 ---
-
-## Horizontal rule
-
-A horizontal rule is a line that goes across the middle of the page.
-It's sometimes handy for breaking things up.
-
-## {% highlight raw %}
-
-{% endhighlight %}
-
----
-
-## Images
-
-Markdown can also contain images. I'll need to add something here sometime.
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-{% endhighlight %}
-
-![Markdowm Image][5]
-
-_Figure Caption_?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-
-<figcaption class="caption">Photo by John Doe</figcaption>
-{% endhighlight %}
-
-![Markdowm Image][5]
-
-<figcaption class="caption">Photo by John Doe</figcaption>
-
-_Bigger Images_?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]{: class="bigger-image" }
-{% endhighlight %}
-
-![Markdowm Image][5]{: class="bigger-image" }
-
----
-
-## Code
-
-A HTML Example:
-
-{% highlight html %}
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Just a test</h1>
-</body>
-</html>
-{% endhighlight %}
-
-A CSS Example:
-
-{% highlight css %}
-pre {
-padding: 10px;
-font-size: .8em;
-white-space: pre;
-}
-
-pre, table {
-width: 100%;
-}
-
-code, pre, tt {
-font-family: Monaco, Consolas, Inconsolata, monospace, sans-serif;
-background: rgba(0,0,0,.05);
-}
-{% endhighlight %}
-
-A JS Example:
-
-{% highlight js %}
-// Sticky Header
-$(window).scroll(function() {
-
-    if ($(window).scrollTop() > 900 && !$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeOut('fast');
-    } else if (!$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeIn('fast');
-    }
-
-});
-{% endhighlight %}
-
-[1]: https://daringfireball.net/projects/markdown/
-[2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: https://daringfireball.net/projects/markdown/basics
-[4]: https://daringfireball.net/projects/markdown/syntax
-[5]: https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
