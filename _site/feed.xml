@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-28T21:51:31-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">iOS Development Getting Started</title><link href="http://localhost:4000/ios-development-getting-started/" rel="alternate" type="text/html" title="iOS Development Getting Started" /><published>2022-12-26T22:48:00-06:00</published><updated>2022-12-26T22:48:00-06:00</updated><id>http://localhost:4000/ios-development-getting-started</id><content type="html" xml:base="http://localhost:4000/ios-development-getting-started/">&lt;h2 id=&quot;foreword&quot;&gt;Foreword:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-05T22:23:19-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Keep Learning, Stay Focused, and Self-Discipline</title><link href="http://localhost:4000/keep-learning-stay-focused-and-self-discipline/" rel="alternate" type="text/html" title="Keep Learning, Stay Focused, and Self-Discipline" /><published>2022-12-28T22:45:00-06:00</published><updated>2022-12-28T22:45:00-06:00</updated><id>http://localhost:4000/keep-learning-stay-focused-and-self-discipline</id><content type="html" xml:base="http://localhost:4000/keep-learning-stay-focused-and-self-discipline/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
+
+&lt;p&gt;It’s important to keep yourself up to date with the fast changing technology. From that, you are ensuring your knowledge won’t be out of date and you will stay on top of changing demands of the workplace.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/blog/keep-up-to-date.jpeg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;4-ways-to-stay-up-to-date-on-the-latest-apple-technology&quot;&gt;4 Ways to stay up to date on the latest Apple technology&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/apple-developer/id640199958&quot; target=&quot;_blank&quot;&gt;Apple Developer:&lt;/a&gt; available on macOS and iOS. Resources for developer stories, news, and educational information — and the best place to experience WWDC.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.raywenderlich.com&quot; target=&quot;_blank&quot;&gt;raywenderlich.com:&lt;/a&gt; The largest and most up-to-date collection of development courses on iOS, Swift, Android, Kotlin, Flutter, Server Side Swift, Unity and more.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.appcoda.com&quot; target=&quot;_blank&quot;&gt;AppCoda:&lt;/a&gt; how to build apps with high quality and easy-to-read tutorials.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.hackingwithswift.com&quot; target=&quot;_blank&quot;&gt;Hacking with Swift:&lt;/a&gt; Programming is an art. Don’t spend all your time sharpening your pencil when you should be drawing.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;4-ways-to-stay-up-to-date-on-the-latest-android-technology&quot;&gt;4 Ways to stay up to date on the latest Android technology&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://developers.google.com&quot; target=&quot;_blank&quot;&gt;Google Developers:&lt;/a&gt; Engineering and technology articles for developers, written and curated by Googlers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://androidweekly.net&quot; target=&quot;_blank&quot;&gt;Android Weekly:&lt;/a&gt; free newsletter that helps you to stay cutting-edge with your Android Development.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://android-arsenal.com&quot; target=&quot;_blank&quot;&gt;Android Arsenal:&lt;/a&gt; a categorized portal with tools, apps, directories and libraries for Android.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://blog.stylingandroid.com&quot; target=&quot;_blank&quot;&gt;Styling Android:&lt;/a&gt; a technical guide to improving the UI and UX of Android apps.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;benefits&quot;&gt;Benefits&lt;/h3&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+	&lt;div class=&quot;toleft&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/relax.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;&lt;/figcaption&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;toright&quot;&gt;
+			&lt;ul&gt;
+				&lt;li&gt;Inspiration for other people.&lt;/li&gt;&lt;br /&gt;
+				&lt;li&gt;Confidence to handle any tasks.&lt;/li&gt;&lt;br /&gt;
+				&lt;li&gt;Stay enthusiastic and flexible on your work.&lt;/li&gt;&lt;br /&gt;
+				&lt;li&gt;More valuable to your team by contributing.&lt;/li&gt;
+				&lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">iOS Development Getting Started</title><link href="http://localhost:4000/ios-development-getting-started/" rel="alternate" type="text/html" title="iOS Development Getting Started" /><published>2022-12-26T22:48:00-06:00</published><updated>2022-12-26T22:48:00-06:00</updated><id>http://localhost:4000/ios-development-getting-started</id><content type="html" xml:base="http://localhost:4000/ios-development-getting-started/">&lt;h2 id=&quot;foreword&quot;&gt;Foreword:&lt;/h2&gt;
 
 &lt;p&gt;This is a brief article showing some of the minimum requirements you should preapre to become an iOS Developer.&lt;/p&gt;
 
@@ -296,70 +359,7 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
         &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#hamburguer__open&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;fast&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Keep Learning, Stay Focused, and Self-Discipline</title><link href="http://localhost:4000/keep-learning-stay-focused-and-self-discipline/" rel="alternate" type="text/html" title="Keep Learning, Stay Focused, and Self-Discipline" /><published>2022-12-13T22:45:00-06:00</published><updated>2022-12-13T22:45:00-06:00</updated><id>http://localhost:4000/keep-learning-stay-focused-and-self-discipline</id><content type="html" xml:base="http://localhost:4000/keep-learning-stay-focused-and-self-discipline/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
-
-&lt;p&gt;It’s important to keep yourself up to date with the fast changing technology. From that, you are ensuring your knowledge won’t be out of date and you will stay on top of changing demands of the workplace.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/blog/keep-up-to-date.jpeg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;4-ways-to-stay-up-to-date-on-the-latest-apple-technology&quot;&gt;4 Ways to stay up to date on the latest Apple technology&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/apple-developer/id640199958&quot; target=&quot;_blank&quot;&gt;Apple Developer:&lt;/a&gt; available on macOS and iOS. Resources for developer stories, news, and educational information — and the best place to experience WWDC.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;http://www.raywenderlich.com&quot; target=&quot;_blank&quot;&gt;raywenderlich.com:&lt;/a&gt; The largest and most up-to-date collection of development courses on iOS, Swift, Android, Kotlin, Flutter, Server Side Swift, Unity and more.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.appcoda.com&quot; target=&quot;_blank&quot;&gt;AppCoda:&lt;/a&gt; how to build apps with high quality and easy-to-read tutorials.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.hackingwithswift.com&quot; target=&quot;_blank&quot;&gt;Hacking with Swift:&lt;/a&gt; Programming is an art. Don’t spend all your time sharpening your pencil when you should be drawing.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;4-ways-to-stay-up-to-date-on-the-latest-android-technology&quot;&gt;4 Ways to stay up to date on the latest Android technology&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://developers.google.com&quot; target=&quot;_blank&quot;&gt;Google Developers:&lt;/a&gt; Engineering and technology articles for developers, written and curated by Googlers.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://androidweekly.net&quot; target=&quot;_blank&quot;&gt;Android Weekly:&lt;/a&gt; free newsletter that helps you to stay cutting-edge with your Android Development.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://android-arsenal.com&quot; target=&quot;_blank&quot;&gt;Android Arsenal:&lt;/a&gt; a categorized portal with tools, apps, directories and libraries for Android.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://blog.stylingandroid.com&quot; target=&quot;_blank&quot;&gt;Styling Android:&lt;/a&gt; a technical guide to improving the UI and UX of Android apps.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;benefits&quot;&gt;Benefits&lt;/h3&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-	&lt;div class=&quot;toleft&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/relax.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;&lt;/figcaption&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;toright&quot;&gt;
-			&lt;ul&gt;
-				&lt;li&gt;Inspiration for other people.&lt;/li&gt;&lt;br /&gt;
-				&lt;li&gt;Confidence to handle any tasks.&lt;/li&gt;&lt;br /&gt;
-				&lt;li&gt;Stay enthusiastic and flexible on your work.&lt;/li&gt;&lt;br /&gt;
-				&lt;li&gt;More valuable to your team by contributing.&lt;/li&gt;
-				&lt;/ul&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Work On Things We Love</title><link href="http://localhost:4000/work-on-things-we-love/" rel="alternate" type="text/html" title="Work On Things We Love" /><published>2022-12-12T22:44:00-06:00</published><updated>2022-12-12T22:44:00-06:00</updated><id>http://localhost:4000/work-on-things-we-love</id><content type="html" xml:base="http://localhost:4000/work-on-things-we-love/">&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Work On Things We Love</title><link href="http://localhost:4000/work-on-things-we-love/" rel="alternate" type="text/html" title="Work On Things We Love" /><published>2022-12-12T22:44:00-06:00</published><updated>2022-12-12T22:44:00-06:00</updated><id>http://localhost:4000/work-on-things-we-love</id><content type="html" xml:base="http://localhost:4000/work-on-things-we-love/">&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
 
 &lt;p&gt;This note &lt;strong&gt;demonstrates&lt;/strong&gt; some of what &lt;a href=&quot;https://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; is &lt;em&gt;capable of doing&lt;/em&gt;.&lt;/p&gt;
 
