@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-05T22:23:19-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Keep Learning, Stay Focused, and Self-Discipline</title><link href="http://localhost:4000/keep-learning-stay-focused-and-self-discipline/" rel="alternate" type="text/html" title="Keep Learning, Stay Focused, and Self-Discipline" /><published>2022-12-28T22:45:00-06:00</published><updated>2022-12-28T22:45:00-06:00</updated><id>http://localhost:4000/keep-learning-stay-focused-and-self-discipline</id><content type="html" xml:base="http://localhost:4000/keep-learning-stay-focused-and-self-discipline/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-06T22:25:06-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Keep Learning, Stay Focused, and Self-Discipline</title><link href="http://localhost:4000/keep-learning-stay-focused-and-self-discipline/" rel="alternate" type="text/html" title="Keep Learning, Stay Focused, and Self-Discipline" /><published>2022-12-28T22:45:00-06:00</published><updated>2022-12-28T22:45:00-06:00</updated><id>http://localhost:4000/keep-learning-stay-focused-and-self-discipline</id><content type="html" xml:base="http://localhost:4000/keep-learning-stay-focused-and-self-discipline/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
 
 &lt;p&gt;It’s important to keep yourself up to date with the fast changing technology. From that, you are ensuring your knowledge won’t be out of date and you will stay on top of changing demands of the workplace.&lt;/p&gt;
 
@@ -63,108 +63,88 @@
 
 &lt;hr /&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">iOS Development Getting Started</title><link href="http://localhost:4000/ios-development-getting-started/" rel="alternate" type="text/html" title="iOS Development Getting Started" /><published>2022-12-26T22:48:00-06:00</published><updated>2022-12-26T22:48:00-06:00</updated><id>http://localhost:4000/ios-development-getting-started</id><content type="html" xml:base="http://localhost:4000/ios-development-getting-started/">&lt;h2 id=&quot;foreword&quot;&gt;Foreword:&lt;/h2&gt;
 
-&lt;p&gt;This is a brief article showing some of the minimum requirements you should preapre to become an iOS Developer.&lt;/p&gt;
+&lt;p&gt;iOS is Apple’s mobile operating system that runs on iPhones, iPads, and iPods. With the increasing popularity of Apple devices, there has been a growing demand for iOS developers who can create engaging and user-friendly apps for the platform. If you’re interested in developing for iOS, this simple guide will get you started.&lt;/p&gt;
 
-&lt;h3 id=&quot;mac-computer&quot;&gt;Mac Computer&lt;/h3&gt;
+&lt;h3 id=&quot;get-a-mac-and-xcode&quot;&gt;Get a Mac and Xcode:&lt;/h3&gt;
 
 &lt;div class=&quot;side-by-side&quot;&gt;
     &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;Firstly, you must have the &lt;a href=&quot;https://www.apple.com/mac/&quot; target=&quot;_blank&quot;&gt;Mac computer&lt;/a&gt;. You have to buy a Macbook Pro or any kind of macOS computer family like Mac Mini, Mac Pro, Macbook Air.&lt;/p&gt;
-        &lt;p&gt;I strongly recommend the computer should be at least 16GB of RAM and running the latest macOS version.&lt;/p&gt;
+				&lt;p&gt;The first step to getting started with iOS development is to have a Mac. Xcode is the official integrated development environment (IDE) for iOS development and can only be run on Macs. Xcode is a free download from the Mac App Store.&lt;/p&gt;
     &lt;/div&gt;
-
     &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/macbook-pro.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;MacBook Pro 15-inch&lt;/figcaption&gt;
+        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/macbook-pro-xcode.png&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;MacBook Pro &amp;amp; Xcode&lt;/figcaption&gt;
     &lt;/div&gt;
-
 &lt;/div&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;apple-ios-device&quot;&gt;Apple iOS Device&lt;/h3&gt;
+&lt;h3 id=&quot;learn-swift&quot;&gt;Learn Swift:&lt;/h3&gt;
 
 &lt;div class=&quot;side-by-side&quot;&gt;
     &lt;div class=&quot;toleft&quot;&gt;
-    &lt;img class=&quot;image&quot; src=&quot;/assets/blog/iphone-ipad-watch.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;iPhone, iPad, and Apple Watch&lt;/figcaption&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;p&gt;This is a recommendation, you should have the physical iOS devices like &lt;a href=&quot;https://www.apple.com/iphone/&quot; target=&quot;_blank&quot;&gt;iPhones&lt;/a&gt;, &lt;a href=&quot;https://www.apple.com/ipad/&quot; target=&quot;_blank&quot;&gt;iPads&lt;/a&gt;, or &lt;a href=&quot;https://www.apple.com/watch/&quot; target=&quot;_blank&quot;&gt;Apple Watch&lt;/a&gt; if you are going to develop Watch Apps.&lt;/p&gt;
-        &lt;p&gt;It's sound like a lot when you are get started the journey but it will be worth it.&lt;/p&gt;
-    &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;apple-develop-account&quot;&gt;Apple Develop Account&lt;/h3&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;If you haven't enroll the Apple Developer Program yet, start now from &lt;a href=&quot;https://developer.apple.com/programs/enroll/&quot; target=&quot;_blank&quot;&gt;Apple Developer Program&lt;/a&gt; and resgister one.&lt;/p&gt;
-        &lt;p&gt;Basically, you could use a free account. But in order to submit your apps to the App Store, you must enroll the paid account which is $99/year.&lt;/p&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/apple-developer-account.png&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Apple Developer Account&lt;/figcaption&gt;
-    &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;xcode&quot;&gt;Xcode&lt;/h3&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-    &lt;img class=&quot;image&quot; src=&quot;/assets/blog/xcode-welcome.png&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Xcode IDE&lt;/figcaption&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;p&gt;Install &lt;a href=&quot;https://developer.apple.com/xcode/&quot; target=&quot;_blank&quot;&gt;Xcode&lt;/a&gt; from the Mac App Store, that's the IDE that you will use to develop Apple native applications including iOS, macOS, tvOS, and watchOS applications.&lt;/p&gt;
-    &lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;swift&quot;&gt;Swift&lt;/h3&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;&lt;a href=&quot;https://swift.org&quot; target=&quot;_blank&quot;&gt;Swift&lt;/a&gt; is a modern language, support new programming features, and has 4X faster build time than Objective-C.&lt;/p&gt;
-        &lt;p&gt;Swift was designed to be a simple and understandable language. So, why don't use Swift?&lt;/p&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/swift-language-performance.png&quot; alt=&quot;Alt Text&quot; /&gt;
+    &lt;img class=&quot;image&quot; src=&quot;/assets/blog/swift-programming-language.png&quot; alt=&quot;Alt Text&quot; /&gt;
         &lt;figcaption class=&quot;caption&quot;&gt;Swift Programming Language&lt;/figcaption&gt;
     &lt;/div&gt;
-
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;p&gt;Swift is the programming language used for iOS development. It is a powerful, yet easy to learn language that has been developed by Apple. There are a number of resources available online to learn Swift, including Apple's official Swift book, which is available for free on the iBooks Store.&lt;/p&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;lets-start-coding&quot;&gt;Let’s Start Coding&lt;/h3&gt;
+&lt;h3 id=&quot;familiarize-yourself-with-ios-development-concepts&quot;&gt;Familiarize yourself with iOS development concepts:&lt;/h3&gt;
 
 &lt;div class=&quot;side-by-side&quot;&gt;
     &lt;div class=&quot;toleft&quot;&gt;
-    &lt;img class=&quot;image&quot; src=&quot;/assets/blog/craig-federighi.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Let's Coding&lt;/figcaption&gt;
+        &lt;p&gt;iOS development involves a number of concepts, including UI design, app architecture, and working with data. Understanding these concepts will help you create better apps and make the development process easier.&lt;/p&gt;
     &lt;/div&gt;
 
     &lt;div class=&quot;toright&quot;&gt;
-        &lt;p&gt;If all things are setted up, let's get started to build your very first Hello World application.&lt;/p&gt;
-    			&lt;p&gt;Getting your hand dirty, start with small things and you will gain more a long the way.&lt;/p&gt;
+        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/ios-development-best-practice.png&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;iOS Development Best Practice&lt;/figcaption&gt;
     &lt;/div&gt;
-
 &lt;/div&gt;
 
-&lt;p&gt;If you have troubles when getting started, let’s check out some of the useful websites below (you will love it).&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;test-your-app-on-a-device&quot;&gt;Test your app on a device:&lt;/h3&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+    &lt;img class=&quot;image&quot; src=&quot;/assets/blog/apple-product-family.png&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Apple Product Family&lt;/figcaption&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;p&gt;After you have built your app, it's important to test it on an actual device to make sure it works as intended. You can use the iOS Simulator built into Xcode for basic testing, but for more accurate testing, you should test your app on an actual device.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;join-the-ios-developer-community&quot;&gt;Join the iOS developer community:&lt;/h3&gt;
+
+&lt;div class=&quot;side-by-side&quot;&gt;
+    &lt;div class=&quot;toleft&quot;&gt;
+        &lt;p&gt;Joining the iOS developer community can be a great way to connect with other developers, learn new skills, and stay up-to-date with the latest developments in iOS development. You can join forums and online communities, attend local iOS development meetups, or join Apple's iOS Developer Program.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;toright&quot;&gt;
+        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/apple-developer.png&quot; alt=&quot;Alt Text&quot; /&gt;
+        &lt;figcaption class=&quot;caption&quot;&gt;Apple Developer Community&lt;/figcaption&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;summary&quot;&gt;Summary:&lt;/h3&gt;
+
+&lt;p&gt;Getting started with iOS development can seem daunting, but with the right resources and a bit of patience, you can quickly become an iOS developer. Start with these steps, and soon you’ll be on your way to creating your own iOS apps!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&quot;useful-websites-you-will-love-it&quot;&gt;Useful websites you will love it:&lt;/h4&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.kodecode.com&quot; target=&quot;\_blank&quot;&gt;Kodeco&lt;/a&gt;&lt;/li&gt;
@@ -172,22 +152,7 @@
   &lt;li&gt;&lt;a href=&quot;https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html&quot; target=&quot;\_blank&quot;&gt;Apple Document&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;submit-to-the-app-store&quot;&gt;Submit To The App Store&lt;/h3&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;Ensure your app was fully tested before submitting to the App Store.&lt;/p&gt;
-        &lt;p&gt;Check out the &lt;a href=&quot;https://developer.apple.com/ios/submit/&quot; target=&quot;_blank&quot;&gt;submit required&lt;/a&gt; from Apple and follow the guidelines. Your app will be ready for reviewing and publishing.&lt;/p&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/app-store.png&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;App Store&lt;/figcaption&gt;
-    &lt;/div&gt;
-
-&lt;/div&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="ios" /><category term="development" /><category term="programming" /><summary type="html">Foreword:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2022-12-14T22:47:00-06:00</published><updated>2022-12-14T22:47:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
+&lt;hr /&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="ios" /><category term="development" /><category term="programming" /><summary type="html">Foreword:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2022-12-14T22:47:00-06:00</published><updated>2022-12-14T22:47:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
 
 &lt;p&gt;This note &lt;strong&gt;demonstrates&lt;/strong&gt; some of what &lt;a href=&quot;https://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; is &lt;em&gt;capable of doing&lt;/em&gt;.&lt;/p&gt;
 
