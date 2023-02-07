@@ -14,11 +14,11 @@ description: This is a brief article showing some of the minimum requirements yo
   should preapre to become an iOS Developer.
 ---
 
-## Foreword:
+## Foreword
 
 iOS is Apple's mobile operating system that runs on iPhones, iPads, and iPods. With the increasing popularity of Apple devices, there has been a growing demand for iOS developers who can create engaging and user-friendly apps for the platform. If you're interested in developing for iOS, this simple guide will get you started.
 
-### Get a Mac and Xcode:
+### 1. Get a Mac and Xcode
 
 <div class="side-by-side">
     <div class="toleft">
@@ -32,7 +32,7 @@ iOS is Apple's mobile operating system that runs on iPhones, iPads, and iPods. W
 
 ---
 
-### Learn Swift:
+### 2. Learn Swift
 
 <div class="side-by-side">
     <div class="toleft">
@@ -46,7 +46,7 @@ iOS is Apple's mobile operating system that runs on iPhones, iPads, and iPods. W
 
 ---
 
-### Familiarize yourself with iOS development concepts:
+### 3. Familiarize yourself with iOS development concepts
 
 <div class="side-by-side">
     <div class="toleft">
@@ -61,7 +61,7 @@ iOS is Apple's mobile operating system that runs on iPhones, iPads, and iPods. W
 
 ---
 
-### Test your app on a device:
+### 4. Test your app on a device
 
 <div class="side-by-side">
     <div class="toleft">
@@ -76,7 +76,7 @@ iOS is Apple's mobile operating system that runs on iPhones, iPads, and iPods. W
 
 ---
 
-### Join the iOS developer community:
+### 5. Join the iOS developer community
 
 <div class="side-by-side">
     <div class="toleft">
@@ -91,7 +91,7 @@ iOS is Apple's mobile operating system that runs on iPhones, iPads, and iPods. W
 
 ---
 
-### Summary:
+### Summary
 
 Getting started with iOS development can seem daunting, but with the right resources and a bit of patience, you can quickly become an iOS developer. Start with these steps, and soon you'll be on your way to creating your own iOS apps!
 
