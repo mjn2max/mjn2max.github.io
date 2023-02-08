@@ -1,215 +1,36 @@
 ---
-title: "Work On Things We Love"
+title: Work On Things We Love
 layout: post
-date: 2022-12-12 22:44
-image: /assets/images/markdown.jpg
+date: '2023-01-14 22:44:00'
+image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
-  - motivation
-  - development
-  - programming
+- motivation
+- development
+- programming
 category: blog
 author: mjn2max
 description: Work on Things we Really Love
 ---
 
-## Basic formatting
+### Foreword
+In software development, one of the keys to success is to work on things we love. When we are passionate about a project, we are more likely to put in the extra time and effort required to make it great. We also tend to have a better attitude and are more likely to be creative, which leads to better solutions and a more enjoyable experience for both ourselves and our users.
 
-This note **demonstrates** some of what [Markdown][1] is _capable of doing_.
+Working on things we love also helps us to avoid burnout. When we are engaged and excited about a project, it is less likely to feel like work and more likely to be a source of energy and motivation. This, in turn, leads to better work-life balance and a more fulfilling career.
 
-And that's how to do it.
-
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is _capable of doing_.
-{% endhighlight %}
+![Banner](../assets/blog/specialists-works.jpg)
 
 ---
 
-## Headings
+1. Improved Motivation and Engagement: When we work on things we love, we are more motivated and engaged in the work we are doing. This increased level of motivation and engagement can help us to perform better and produce higher quality work.
 
-There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
+2. Increased Creativity: Pursuing our passions in software development can lead to increased creativity and innovation. When we are passionate about a particular area of software development, we are more likely to think outside of the box and come up with new and innovative solutions to problems.
 
-# Headings can be small
+3. Skill Development: By working on the things we love in software development, we can develop our skills and knowledge in specific areas. This can help us become experts in our field and improve our overall job performance.
 
-## Headings can be small
+4. Career Advancement: Pursuing our passions in software development can also lead to career advancement. When we are passionate about a particular area of software development, we are more likely to pursue opportunities and seek out new challenges that can help us grow and advance in our careers.
 
-### Headings can be small
+5. Personal Fulfillment: Finally, working on things we love in software development can bring a sense of personal fulfillment and satisfaction. When we are working on something we are passionate about, we are more likely to feel like we are making a positive impact and that our work has a greater purpose.
 
-#### Headings can be small
-
-{% highlight raw %}
-
-# Heading
-
-## Heading
-
-### Heading
-
-#### Heading
-
-{% endhighlight %}
-
----
-
-## Lists
-
-### Ordered list
-
-1. Item 1
-2. A second item
-3. Number 3
-
-{% highlight raw %}
-
-1. Item 1
-2. A second item
-3. Number 3
-   {% endhighlight %}
-
-### Unordered list
-
-- An item
-- Another item
-- Yet another item
-- And there's more...
-
-{% highlight raw %}
-
-- An item
-- Another item
-- Yet another item
-- And there's more...
-  {% endhighlight %}
-
----
-
-## Paragraph modifiers
-
-### Quote
-
-> Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.
-
-{% highlight raw %}
-
-> Here is a quote. What this is should be self explanatory.
-> {% endhighlight raw %}
-
----
-
-## URLs
-
-URLs can be made in a handful of ways:
-
-- A named link to [Mark It Down][3].
-- Another named link to [Mark It Down](https://google.com/)
-- Sometimes you just want a URL like <https://google.com/>.
-
-{% highlight raw %}
-
-- A named link to [MarkItDown][3].
-- Another named link to [MarkItDown](https://google.com/)
-- Sometimes you just want a URL like <https://google.com/>.
-  {% endhighlight %}
-
----
-
-## Horizontal rule
-
-A horizontal rule is a line that goes across the middle of the page.
-It's sometimes handy for breaking things up.
-
-## {% highlight raw %}
-
-{% endhighlight %}
-
----
-
-## Images
-
-Markdown can also contain images. I'll need to add something here sometime.
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-{% endhighlight %}
-
-![Markdowm Image][5]
-
-_Figure Caption_?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]
-
-<figcaption class="caption">Photo by John Doe</figcaption>
-{% endhighlight %}
-
-![Markdowm Image][5]
-
-<figcaption class="caption">Photo by John Doe</figcaption>
-
-_Bigger Images_?
-
-{% highlight raw %}
-![Markdowm Image][/image/url]{: class="bigger-image" }
-{% endhighlight %}
-
-![Markdowm Image][5]{: class="bigger-image" }
-
----
-
-## Code
-
-A HTML Example:
-
-{% highlight html %}
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Just a test</h1>
-</body>
-</html>
-{% endhighlight %}
-
-A CSS Example:
-
-{% highlight css %}
-pre {
-padding: 10px;
-font-size: .8em;
-white-space: pre;
-}
-
-pre, table {
-width: 100%;
-}
-
-code, pre, tt {
-font-family: Monaco, Consolas, Inconsolata, monospace, sans-serif;
-background: rgba(0,0,0,.05);
-}
-{% endhighlight %}
-
-A JS Example:
-
-{% highlight js %}
-// Sticky Header
-$(window).scroll(function() {
-
-    if ($(window).scrollTop() > 900 && !$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeOut('fast');
-    } else if (!$("body").hasClass('show-menu')) {
-        $('#hamburguer__open').fadeIn('fast');
-    }
-
-});
-{% endhighlight %}
-
-[1]: https://daringfireball.net/projects/markdown/
-[2]: https://www.fileformat.info/info/unicode/char/2163/index.htm
-[3]: https://daringfireball.net/projects/markdown/basics
-[4]: https://daringfireball.net/projects/markdown/syntax
-[5]: https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg
+### Summary
+In conclusion, pursuing our passions in software development is essential to our overall happiness and success in our careers. By taking time to work on the things we love, we can improve our motivation and engagement, increase our creativity, develop our skills, advance our careers, and find personal fulfillment. So, make sure to take time to pursue your passions in software development!
