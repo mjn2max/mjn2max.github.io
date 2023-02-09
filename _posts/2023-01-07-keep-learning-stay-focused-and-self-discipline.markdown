@@ -1,7 +1,7 @@
 ---
 title: Keep Learning, Stay Focused, and Self-Discipline
 layout: post
-date: 2022-12-28 22:45
+date: '2023-01-07 22:45:00'
 image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
