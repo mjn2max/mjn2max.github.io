@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-10T07:41:23-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2023-01-21T22:47:00-06:00</published><updated>2023-01-21T22:47:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-11T06:07:26-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2023-01-21T22:47:00-06:00</published><updated>2023-01-21T22:47:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
 &lt;p&gt;Efficiency and time management are key components of software development. With an ever-increasing workload and tight deadlines, it’s important for developers to work in a way that maximizes their productivity and minimizes wasted time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/blog/keep-up-to-date.jpeg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/blog/time-management.jpg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -33,12 +33,12 @@
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
-&lt;p&gt;By implementing these tips, software developers can work more efficiently, manage their time more effectively, and deliver high-quality software.&lt;/p&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword Efficiency and time management are key components of software development. With an ever-increasing workload and tight deadlines, it’s important for developers to work in a way that maximizes their productivity and minimizes wasted time.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Work On Things We Love</title><link href="http://localhost:4000/work-on-things-we-love/" rel="alternate" type="text/html" title="Work On Things We Love" /><published>2023-01-14T22:44:00-06:00</published><updated>2023-01-14T22:44:00-06:00</updated><id>http://localhost:4000/work-on-things-we-love</id><content type="html" xml:base="http://localhost:4000/work-on-things-we-love/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
+&lt;p&gt;By implementing these tips, software developers can work more efficiently, manage their time more effectively, and deliver high-quality software.&lt;/p&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword Efficiency and time management are key components of software development. With an ever-increasing workload and tight deadlines, it’s important for developers to work in a way that maximizes their productivity and minimizes wasted time.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Work On Things You Love</title><link href="http://localhost:4000/work-on-things-you-love/" rel="alternate" type="text/html" title="Work On Things You Love" /><published>2023-01-14T22:44:00-06:00</published><updated>2023-01-14T22:44:00-06:00</updated><id>http://localhost:4000/work-on-things-you-love</id><content type="html" xml:base="http://localhost:4000/work-on-things-you-love/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
 &lt;p&gt;In software development, one of the keys to success is to work on things we love. When we are passionate about a project, we are more likely to put in the extra time and effort required to make it great. We also tend to have a better attitude and are more likely to be creative, which leads to better solutions and a more enjoyable experience for both ourselves and our users.&lt;/p&gt;
 
 &lt;p&gt;Working on things we love also helps us to avoid burnout. When we are engaged and excited about a project, it is less likely to feel like work and more likely to be a source of energy and motivation. This, in turn, leads to better work-life balance and a more fulfilling career.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/blog/specialists-works.jpg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/blog/friendly-workspace.jpg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -61,11 +61,11 @@
 &lt;/ol&gt;
 
 &lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
-&lt;p&gt;In conclusion, pursuing our passions in software development is essential to our overall happiness and success in our careers. By taking time to work on the things we love, we can improve our motivation and engagement, increase our creativity, develop our skills, advance our careers, and find personal fulfillment. So, make sure to take time to pursue your passions in software development!&lt;/p&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword In software development, one of the keys to success is to work on things we love. When we are passionate about a project, we are more likely to put in the extra time and effort required to make it great. We also tend to have a better attitude and are more likely to be creative, which leads to better solutions and a more enjoyable experience for both ourselves and our users.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Keep Learning, Stay Focused, and Self-Discipline</title><link href="http://localhost:4000/keep-learning-stay-focused-and-self-discipline/" rel="alternate" type="text/html" title="Keep Learning, Stay Focused, and Self-Discipline" /><published>2023-01-07T22:45:00-06:00</published><updated>2023-01-07T22:45:00-06:00</updated><id>http://localhost:4000/keep-learning-stay-focused-and-self-discipline</id><content type="html" xml:base="http://localhost:4000/keep-learning-stay-focused-and-self-discipline/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
+&lt;p&gt;In conclusion, pursuing our passions in software development is essential to our overall happiness and success in our careers. By taking time to work on the things we love, we can improve our motivation and engagement, increase our creativity, develop our skills, advance our careers, and find personal fulfillment. So, make sure to take time to pursue your passions in software development!&lt;/p&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword In software development, one of the keys to success is to work on things we love. When we are passionate about a project, we are more likely to put in the extra time and effort required to make it great. We also tend to have a better attitude and are more likely to be creative, which leads to better solutions and a more enjoyable experience for both ourselves and our users.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Stay Focused, and Self-Discipline</title><link href="http://localhost:4000/stay-focused-and-self-discipline/" rel="alternate" type="text/html" title="Stay Focused, and Self-Discipline" /><published>2023-01-07T22:45:00-06:00</published><updated>2023-01-07T22:45:00-06:00</updated><id>http://localhost:4000/stay-focused-and-self-discipline</id><content type="html" xml:base="http://localhost:4000/stay-focused-and-self-discipline/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
 
 &lt;p&gt;As a software developer, it is crucial to continuously improve your skills and stay up-to-date with the latest technologies and industry trends. In this fast-paced and ever-evolving field, staying focused and disciplined can often be challenging. However, with the right approach and mindset, it is possible to develop a strong foundation for success.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/blog/keep-up-to-date.jpeg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/blog/self-management.jpg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -108,44 +108,6 @@
 				&lt;/ul&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;stay-up-to-date-on-the-latest-apple-technology&quot;&gt;Stay up to date on the latest Apple technology&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/apple-developer/id640199958&quot; target=&quot;_blank&quot;&gt;Apple Developer:&lt;/a&gt; available on macOS and iOS. Resources for developer stories, news, and educational information — and the best place to experience WWDC.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.kodeco.com/&quot; target=&quot;_blank&quot;&gt;kodeco.com:&lt;/a&gt; The largest and most up-to-date collection of development courses on iOS, Swift, Android, Kotlin, Flutter, Server Side Swift, Unity and more.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.appcoda.com&quot; target=&quot;_blank&quot;&gt;AppCoda:&lt;/a&gt; how to build apps with high quality and easy-to-read tutorials.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.hackingwithswift.com&quot; target=&quot;_blank&quot;&gt;Hacking with Swift:&lt;/a&gt; Programming is an art. Don’t spend all your time sharpening your pencil when you should be drawing.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;stay-up-to-date-on-the-latest-android-technology&quot;&gt;Stay up to date on the latest Android technology&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://developers.google.com&quot; target=&quot;_blank&quot;&gt;Google Developers:&lt;/a&gt; Engineering and technology articles for developers, written and curated by Googlers.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://androidweekly.net&quot; target=&quot;_blank&quot;&gt;Android Weekly:&lt;/a&gt; free newsletter that helps you to stay cutting-edge with your Android Development.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://android-arsenal.com&quot; target=&quot;_blank&quot;&gt;Android Arsenal:&lt;/a&gt; a categorized portal with tools, apps, directories and libraries for Android.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://blog.stylingandroid.com&quot; target=&quot;_blank&quot;&gt;Styling Android:&lt;/a&gt; a technical guide to improving the UI and UX of Android apps.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
 &lt;hr /&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">iOS Development Getting Started</title><link href="http://localhost:4000/ios-development-getting-started/" rel="alternate" type="text/html" title="iOS Development Getting Started" /><published>2022-12-26T22:48:00-06:00</published><updated>2022-12-26T22:48:00-06:00</updated><id>http://localhost:4000/ios-development-getting-started</id><content type="html" xml:base="http://localhost:4000/ios-development-getting-started/">&lt;h2 id=&quot;foreword&quot;&gt;Foreword&lt;/h2&gt;
 
 &lt;p&gt;iOS is Apple’s mobile operating system that runs on iPhones, iPads, and iPods. With the increasing popularity of Apple devices, there has been a growing demand for iOS developers who can create engaging and user-friendly apps for the platform. If you’re interested in developing for iOS, this simple guide will get you started.&lt;/p&gt;

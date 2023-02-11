@@ -16,7 +16,7 @@ description: Efficiency Work and Time Management make yourself a better version.
 ### Foreword
 Efficiency and time management are key components of software development. With an ever-increasing workload and tight deadlines, it's important for developers to work in a way that maximizes their productivity and minimizes wasted time.
 
-![Banner](../assets/blog/keep-up-to-date.jpeg)
+![Banner](../assets/blog/time-management.jpg)
 
 ---
 
