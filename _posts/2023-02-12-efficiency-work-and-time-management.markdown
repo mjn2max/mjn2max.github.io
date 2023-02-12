@@ -1,7 +1,7 @@
 ---
 title: Efficiency Work, and Time Management
 layout: post
-date: '2023-01-21 22:47:00'
+date: '2023-02-12 08:30:00'
 image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
@@ -17,6 +17,7 @@ description: Efficiency Work and Time Management make yourself a better version.
 Efficiency and time management are key components of software development. With an ever-increasing workload and tight deadlines, it's important for developers to work in a way that maximizes their productivity and minimizes wasted time.
 
 ![Banner](../assets/blog/time-management.jpg)
+<figcaption class="caption">Time Management - <a href="http://www.freepik.com">Designed by Freepik</a></figcaption>
 
 ---
 

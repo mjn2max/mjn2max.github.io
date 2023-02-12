@@ -1,7 +1,7 @@
 ---
 title: Work On Things You Are Passionate
 layout: post
-date: '2023-01-14 22:44:00'
+date: '2023-01-15 22:30:00'
 image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
@@ -19,6 +19,7 @@ In software development, one of the keys to success is to work on things we love
 Working on things we love also helps us to avoid burnout. When we are engaged and excited about a project, it is less likely to feel like work and more likely to be a source of energy and motivation. This, in turn, leads to better work-life balance and a more fulfilling career.
 
 ![Banner](../assets/blog/friendly-workspace.jpg)
+<figcaption class="caption">Friendly Workspace - <a href="http://www.freepik.com">Designed by Freepik</a></figcaption>
 
 ---
 

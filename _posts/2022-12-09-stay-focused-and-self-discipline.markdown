@@ -1,7 +1,7 @@
 ---
 title: Stay Focused, and Self-Discipline
 layout: post
-date: '2023-01-07 22:45:00'
+date: '2022-12-09 21:30:00'
 image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
@@ -20,6 +20,7 @@ description: It's important to keep yourself up to date with the fast changing t
 As a software developer, it is crucial to continuously improve your skills and stay up-to-date with the latest technologies and industry trends. In this fast-paced and ever-evolving field, staying focused and disciplined can often be challenging. However, with the right approach and mindset, it is possible to develop a strong foundation for success.
 
 ![Banner](../assets/blog/self-management.jpg)
+<figcaption class="caption">Self-Management - <a href="http://www.freepik.com">Designed by Freepik</a></figcaption>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Getting Started with iOS Development
 layout: post
-date: 2022-12-26 22:48
+date: '2022-10-26 19:30:00'
 image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
@@ -19,6 +19,7 @@ description: This is a brief article showing some of the minimum requirements yo
 iOS is Apple's mobile operating system that runs on iPhones, iPads, and iPods. With the increasing popularity of Apple devices, there has been a growing demand for iOS developers who can create engaging and user-friendly apps for the platform. If you're interested in developing for iOS, this simple guide will get you started.
 
 ![Banner](../assets/blog/app-development.jpg)
+<figcaption class="caption">App Development - <a href="http://www.freepik.com">Designed by Freepik</a></figcaption>
 
 ---
 
