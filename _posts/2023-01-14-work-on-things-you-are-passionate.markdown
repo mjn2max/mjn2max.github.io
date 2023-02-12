@@ -1,5 +1,5 @@
 ---
-title: Work On Things You Love
+title: Work On Things You Are Passionate
 layout: post
 date: '2023-01-14 22:44:00'
 image: "/assets/images/markdown.jpg"

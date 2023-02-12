@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-11T06:07:26-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2023-01-21T22:47:00-06:00</published><updated>2023-01-21T22:47:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-02-11T14:27:14-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2023-01-21T22:47:00-06:00</published><updated>2023-01-21T22:47:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
 &lt;p&gt;Efficiency and time management are key components of software development. With an ever-increasing workload and tight deadlines, it’s important for developers to work in a way that maximizes their productivity and minimizes wasted time.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/blog/time-management.jpg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
@@ -33,7 +33,7 @@
 
 &lt;hr /&gt;
 &lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
-&lt;p&gt;By implementing these tips, software developers can work more efficiently, manage their time more effectively, and deliver high-quality software.&lt;/p&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword Efficiency and time management are key components of software development. With an ever-increasing workload and tight deadlines, it’s important for developers to work in a way that maximizes their productivity and minimizes wasted time.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Work On Things You Love</title><link href="http://localhost:4000/work-on-things-you-love/" rel="alternate" type="text/html" title="Work On Things You Love" /><published>2023-01-14T22:44:00-06:00</published><updated>2023-01-14T22:44:00-06:00</updated><id>http://localhost:4000/work-on-things-you-love</id><content type="html" xml:base="http://localhost:4000/work-on-things-you-love/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
+&lt;p&gt;By implementing these tips, software developers can work more efficiently, manage their time more effectively, and deliver high-quality software.&lt;/p&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword Efficiency and time management are key components of software development. With an ever-increasing workload and tight deadlines, it’s important for developers to work in a way that maximizes their productivity and minimizes wasted time.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Work On Things You Are Passionate</title><link href="http://localhost:4000/work-on-things-you-are-passionate/" rel="alternate" type="text/html" title="Work On Things You Are Passionate" /><published>2023-01-14T22:44:00-06:00</published><updated>2023-01-14T22:44:00-06:00</updated><id>http://localhost:4000/work-on-things-you-are-passionate</id><content type="html" xml:base="http://localhost:4000/work-on-things-you-are-passionate/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
 &lt;p&gt;In software development, one of the keys to success is to work on things we love. When we are passionate about a project, we are more likely to put in the extra time and effort required to make it great. We also tend to have a better attitude and are more likely to be creative, which leads to better solutions and a more enjoyable experience for both ourselves and our users.&lt;/p&gt;
 
 &lt;p&gt;Working on things we love also helps us to avoid burnout. When we are engaged and excited about a project, it is less likely to feel like work and more likely to be a source of energy and motivation. This, in turn, leads to better work-life balance and a more fulfilling career.&lt;/p&gt;
@@ -108,80 +108,31 @@
 				&lt;/ul&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;hr /&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">iOS Development Getting Started</title><link href="http://localhost:4000/ios-development-getting-started/" rel="alternate" type="text/html" title="iOS Development Getting Started" /><published>2022-12-26T22:48:00-06:00</published><updated>2022-12-26T22:48:00-06:00</updated><id>http://localhost:4000/ios-development-getting-started</id><content type="html" xml:base="http://localhost:4000/ios-development-getting-started/">&lt;h2 id=&quot;foreword&quot;&gt;Foreword&lt;/h2&gt;
+&lt;hr /&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Getting Started with iOS Development</title><link href="http://localhost:4000/getting-started-with-ios-development/" rel="alternate" type="text/html" title="Getting Started with iOS Development" /><published>2022-12-26T22:48:00-06:00</published><updated>2022-12-26T22:48:00-06:00</updated><id>http://localhost:4000/getting-started-with-ios-development</id><content type="html" xml:base="http://localhost:4000/getting-started-with-ios-development/">&lt;h2 id=&quot;foreword&quot;&gt;Foreword&lt;/h2&gt;
 
 &lt;p&gt;iOS is Apple’s mobile operating system that runs on iPhones, iPads, and iPods. With the increasing popularity of Apple devices, there has been a growing demand for iOS developers who can create engaging and user-friendly apps for the platform. If you’re interested in developing for iOS, this simple guide will get you started.&lt;/p&gt;
 
-&lt;h3 id=&quot;1-get-a-mac-and-xcode&quot;&gt;1. Get a Mac and Xcode&lt;/h3&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-				&lt;p&gt;The first step to getting started with iOS development is to have a Mac. Xcode is the official integrated development environment (IDE) for iOS development and can only be run on Macs. Xcode is a free download from the Mac App Store.&lt;/p&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/macbook-pro-xcode.png&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;MacBook Pro &amp;amp; Xcode&lt;/figcaption&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/blog/app-development.jpg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;2-learn-swift&quot;&gt;2. Learn Swift&lt;/h3&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-    &lt;img class=&quot;image&quot; src=&quot;/assets/blog/swift-programming-language.png&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Swift Programming Language&lt;/figcaption&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;p&gt;Swift is the programming language used for iOS development. It is a powerful, yet easy to learn language that has been developed by Apple. There are a number of resources available online to learn Swift, including Apple's official Swift book, which is available for free on the iBooks Store.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;3-familiarize-yourself-with-ios-development-concepts&quot;&gt;3. Familiarize yourself with iOS development concepts&lt;/h3&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;iOS development involves a number of concepts, including UI design, app architecture, and working with data. Understanding these concepts will help you create better apps and make the development process easier.&lt;/p&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/ios-development-best-practice.png&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;iOS Development Best Practice&lt;/figcaption&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;4-test-your-app-on-a-device&quot;&gt;4. Test your app on a device&lt;/h3&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-    &lt;img class=&quot;image&quot; src=&quot;/assets/blog/apple-product-family.png&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Apple Product Family&lt;/figcaption&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;p&gt;After you have built your app, it's important to test it on an actual device to make sure it works as intended. You can use the iOS Simulator built into Xcode for basic testing, but for more accurate testing, you should test your app on an actual device.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;5-join-the-ios-developer-community&quot;&gt;5. Join the iOS developer community&lt;/h3&gt;
-
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;Joining the iOS developer community can be a great way to connect with other developers, learn new skills, and stay up-to-date with the latest developments in iOS development. You can join forums and online communities, attend local iOS development meetups, or join Apple's iOS Developer Program.&lt;/p&gt;
-    &lt;/div&gt;
-
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;/assets/blog/apple-developer.png&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Apple Developer Community&lt;/figcaption&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Get a Mac and Xcode: The first step to getting started with iOS development is to have a Mac. Xcode is the official integrated development environment (IDE) for iOS development and can only be run on Macs. Xcode is a free download from the Mac App Store.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learn Swift: Swift is the programming language used for iOS development. It is a powerful, yet easy to learn language that has been developed by Apple. There are a number of resources available online to learn Swift, including Apple’s official Swift book, which is available for free on the iBooks Store.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Familiarize yourself with iOS development concepts: iOS development involves a number of concepts, including UI design, app architecture, and working with data. Understanding these concepts will help you create better apps and make the development process easier.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Test your app on a device: After you have built your app, it’s important to test it on an actual device to make sure it works as intended. You can use the iOS Simulator built into Xcode for basic testing, but for more accurate testing, you should test your app on an actual device.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Join the iOS developer community: Joining the iOS developer community can be a great way to connect with other developers, learn new skills, and stay up-to-date with the latest developments in iOS development. You can join forums and online communities, attend local iOS development meetups, or join Apple’s iOS Developer Program.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;hr /&gt;
 
@@ -191,12 +142,21 @@
 
 &lt;hr /&gt;
 
-&lt;h4 id=&quot;useful-websites-you-will-love-it&quot;&gt;Useful websites you will love it:&lt;/h4&gt;
+&lt;h4 id=&quot;useful-resources&quot;&gt;Useful resources:&lt;/h4&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.kodecode.com&quot; target=&quot;\_blank&quot;&gt;Kodeco&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.appcoda.com&quot; target=&quot;\_blank&quot;&gt;AppCoda&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html&quot; target=&quot;\_blank&quot;&gt;Apple Document&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/apple-developer/id640199958&quot; target=&quot;_blank&quot;&gt;Apple Developer&lt;/a&gt;: available on macOS and iOS. Resources for developer stories, news, and educational information — and the best place to experience WWDC.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.kodeco.com/&quot; target=&quot;_blank&quot;&gt;Kodeco&lt;/a&gt;: The largest and most up-to-date collection of development courses on iOS, Swift, Android, Kotlin, Flutter, Server Side Swift, Unity and more.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.appcoda.com&quot; target=&quot;_blank&quot;&gt;AppCoda&lt;/a&gt;: how to build apps with high quality and easy-to-read tutorials.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.hackingwithswift.com&quot; target=&quot;_blank&quot;&gt;Hacking with Swift&lt;/a&gt;: Programming is an art. Don’t spend all your time sharpening your pencil when you should be drawing.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;hr /&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="ios" /><category term="development" /><category term="programming" /><summary type="html">Foreword</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">App 3</title><link href="http://localhost:4000/app-2/" rel="alternate" type="text/html" title="App 3" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/app-2</id><content type="html" xml:base="http://localhost:4000/app-2/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
