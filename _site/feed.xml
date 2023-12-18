@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-17T22:11:13-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2023-02-12T08:30:00-06:00</published><updated>2023-02-12T08:30:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-17T22:15:29-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2023-02-12T08:30:00-06:00</published><updated>2023-02-12T08:30:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
 &lt;p&gt;Efficiency and time management are key components of software development. With an ever-increasing workload and tight deadlines, it’s important for developers to work in a way that maximizes their productivity and minimizes wasted time.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/blog/time-management.jpg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
@@ -163,31 +163,7 @@
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;hr /&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="ios" /><category term="development" /><category term="programming" /><summary type="html">Foreword</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Calculator App</title><link href="http://localhost:4000/calculator-app/" rel="alternate" type="text/html" title="Calculator App" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/calculator-app</id><content type="html" xml:base="http://localhost:4000/calculator-app/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Introducing the Simple Calculator App for iOS - a versatile and stylish tool for all your calculation needs. With its user-friendly interface and customizable themes, this app is perfect for anyone who wants to make quick and accurate calculations on the go.&lt;/p&gt;
-
-&lt;p&gt;The app includes all the basic arithmetic functions - addition, subtraction, multiplication, and division - along with more advanced functions such as square roots and percentages. The large display screen shows your calculations and results in real-time, ensuring that you can always see your work.&lt;/p&gt;
-
-&lt;p&gt;One of the standout features of this app is the ability to choose from multiple themes. Whether you prefer a classic look or something more modern, this app has a theme that will fit your personal style. With themes ranging from bright and bold to minimalistic and understated, you can easily find the perfect look for you.&lt;/p&gt;
-
-&lt;p&gt;In addition to its stylish themes, this app also offers a history log to keep track of all your previous calculations. This feature makes it easy to reference your work or repeat calculations, saving you time and effort.&lt;/p&gt;
-
-&lt;p&gt;Whether you’re a student, professional, or just someone who needs to make quick calculations, the Simple Calculator App for iOS is a must-have tool. So why wait? Download it today and start enjoying a simple, stylish, and versatile calculator experience!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Change Log:&lt;/p&gt;
-
-&lt;p&gt;1.x Releases&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Download:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/calculator-app&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/calculator-app&quot;&gt;Google Play&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry><entry><title type="html">Counting App</title><link href="http://localhost:4000/counting-app/" rel="alternate" type="text/html" title="Counting App" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/counting-app</id><content type="html" xml:base="http://localhost:4000/counting-app/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;hr /&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="ios" /><category term="development" /><category term="programming" /><summary type="html">Foreword</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Counting App</title><link href="http://localhost:4000/counting-app/" rel="alternate" type="text/html" title="Counting App" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/counting-app</id><content type="html" xml:base="http://localhost:4000/counting-app/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -211,6 +187,35 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/counting-app&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/counting-app&quot;&gt;Google Play&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry><entry><title type="html">Life In Week App</title><link href="http://localhost:4000/life-in-week-app/" rel="alternate" type="text/html" title="Life In Week App" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/life-in-week-app</id><content type="html" xml:base="http://localhost:4000/life-in-week-app/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Life In Week is your personal assistant for staying on top of your busy life. With Life In Week, you can plan your schedule, set reminders, and track your progress towards your goals all in one convenient app.&lt;/p&gt;
+
+&lt;p&gt;Plan your week with ease using Life In Week’s intuitive calendar feature. Simply drag and drop events, appointments, and tasks into the calendar to schedule them. You can view your week at a glance, or zoom in to see each day’s schedule in detail.&lt;/p&gt;
+
+&lt;p&gt;Never forget an important deadline or appointment again with Life In Week’s reminders feature. Set reminders for specific times or dates, or set recurring reminders for weekly or monthly events.&lt;/p&gt;
+
+&lt;p&gt;Stay motivated and on track towards your goals with Life In Week’s goal tracker. Set achievable goals, track your progress, and celebrate your successes as you work towards your dreams.&lt;/p&gt;
+
+&lt;p&gt;Life In Week is also customizable to your needs. You can choose from different themes and color schemes to make the app your own, and even sync your calendar and reminders with your other devices.&lt;/p&gt;
+
+&lt;p&gt;Download Life In Week today and take control of your busy life.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Change Log:&lt;/p&gt;
+
+&lt;p&gt;1.x Releases&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Download:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/life-in-week-app&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/life-in-week-app&quot;&gt;Google Play&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry><entry><title type="html">Magic Pad App</title><link href="http://localhost:4000/magic-pad-app/" rel="alternate" type="text/html" title="Magic Pad App" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/magic-pad-app</id><content type="html" xml:base="http://localhost:4000/magic-pad-app/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -237,24 +242,28 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/magic-pad-app&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/magic-pad-app&quot;&gt;Google Play&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry><entry><title type="html">App 4</title><link href="http://localhost:4000/app-1/" rel="alternate" type="text/html" title="App 4" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/app-1</id><content type="html" xml:base="http://localhost:4000/app-1/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry><entry><title type="html">Calculator App</title><link href="http://localhost:4000/calculator-app/" rel="alternate" type="text/html" title="Calculator App" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/calculator-app</id><content type="html" xml:base="http://localhost:4000/calculator-app/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;https://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
+&lt;p&gt;Introducing the Simple Calculator App for iOS - a versatile and stylish tool for all your calculation needs. With its user-friendly interface and customizable themes, this app is perfect for anyone who wants to make quick and accurate calculations on the go.&lt;/p&gt;
+
+&lt;p&gt;The app includes all the basic arithmetic functions - addition, subtraction, multiplication, and division - along with more advanced functions such as square roots and percentages. The large display screen shows your calculations and results in real-time, ensuring that you can always see your work.&lt;/p&gt;
+
+&lt;p&gt;One of the standout features of this app is the ability to choose from multiple themes. Whether you prefer a classic look or something more modern, this app has a theme that will fit your personal style. With themes ranging from bright and bold to minimalistic and understated, you can easily find the perfect look for you.&lt;/p&gt;
+
+&lt;p&gt;In addition to its stylish themes, this app also offers a history log to keep track of all your previous calculations. This feature makes it easy to reference your work or repeat calculations, saving you time and effort.&lt;/p&gt;
+
+&lt;p&gt;Whether you’re a student, professional, or just someone who needs to make quick calculations, the Simple Calculator App for iOS is a must-have tool. So why wait? Download it today and start enjoying a simple, stylish, and versatile calculator experience!&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;What has inside?&lt;/p&gt;
+&lt;p&gt;Change Log:&lt;/p&gt;
 
+&lt;p&gt;1.x Releases&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Download:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Gulp&lt;/li&gt;
-  &lt;li&gt;BrowserSync&lt;/li&gt;
-  &lt;li&gt;Stylus&lt;/li&gt;
-  &lt;li&gt;SVG&lt;/li&gt;
-  &lt;li&gt;No JS&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F&quot;&gt;98/100&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
-If you need some help, just &lt;a href=&quot;https://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="jekyll" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png" /><media:content medium="image" url="https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+  &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/calculator-app&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/calculator-app&quot;&gt;Google Play&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry></feed>
