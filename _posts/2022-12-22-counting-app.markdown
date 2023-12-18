@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Screenshot](https://github.com/mjn2max/mjn2max.github.io/blob/main/assets/images/coming-soon.jpg)
+![Screenshot](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg)
 
 ---
 

@@ -7,18 +7,15 @@ tag:
 - android
 - product
 - app store
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
 projects: true
 hidden: true
-description: This is a simple and minimalist template for Jekyll for those who likes
-  to eat noodles.
+description: A versatile and stylish tool for all your calculation needs
 category: project
-author: johndoe
+author: mjn2max
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![Screenshot](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg)
 
 Introducing the Simple Calculator App for iOS - a versatile and stylish tool for all your calculation needs. With its user-friendly interface and customizable themes, this app is perfect for anyone who wants to make quick and accurate calculations on the go.
 
@@ -32,16 +29,12 @@ Whether you're a student, professional, or just someone who needs to make quick 
 
 ---
 
-What has inside?
+Change Log:
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+1.x Releases
 
 ---
 
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+Download:
+- [App Store](https://mjn2max.github.io/calculator-app)
+- [Google Play](https://mjn2max.github.io/calculator-app)
