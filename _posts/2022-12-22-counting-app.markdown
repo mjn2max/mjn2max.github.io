@@ -7,18 +7,15 @@ tag:
 - android
 - product
 - app store
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
 projects: true
 hidden: true
-description: This is a simple and minimalist template for Jekyll for those who likes
-  to eat noodles.
+description: Keeping track of numbers and counting
 category: project
-author: johndoe
+author: mjn2max
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![Screenshot](https://github.com/mjn2max/mjn2max.github.io/blob/main/assets/images/coming-soon.jpg)
 
 ---
 
@@ -32,20 +29,12 @@ Whether you're counting items for work, tracking your personal progress, or just
 
 ---
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](https://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Change Log:
+
+1.x Releases
 
 ---
 
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](https://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](https://github.com/sergiokopplin/indigo/issues).
+Download:
+- [App Store](https://mjn2max.github.io/counting-app)
+- [Google Play](https://mjn2max.github.io/counting-app)
