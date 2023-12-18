@@ -16,12 +16,12 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Languages: Swift, Objective-C, Kotlin, Java, Python, Dart.</li>
-	<li>Frameworks: SwiftUI, UIKit, Combine, Dispatch, XCTest, Flutter.</li>
-	<li>Softwares: Xcode, Android Studio, Visual Studio Code, Figma.</li>
-	<li>Tools: Git, GitHub, Terminal, Sourcetree, Bitbucket, JIRA .</li>
-	<li>Databases: Core Data, Realm, SQLite, Firebase, MongoDB.</li>
-	<li>Design Patterns: MVC, MVVM, VIPER, Singleton, Delegation, Observation.</li>
+	<li>Languages: Swift, Objective-C, Kotlin, Java, Python.</li>
+	<li>Frameworks: SwiftUI, UIKit, Combine, Dispatch, XCTest, Cucumber.</li>
+	<li>Softwares: Xcode, Android Studio, IntelliJ, Visual Studio Code, Figma.</li>
+	<li>Tools: Terminal, Git, GitHub, Bitbucket, SourceTree, JIRA.</li>
+	<li>Databases: SwiftData, Core Data, SQLite, Firebase, Realm, MongoDB.</li>
+	<li>Design Patterns: MVVM, MVC, VIPER, Singleton, Delegation, Observation.</li>
 	<li>Quality Control: TDD, BDD, Unit Testing, UI Testing.</li>
 	<li>Platforms: iOS, macOS, watchOS, tvOS, Android, Web.</li>
 </ul>
