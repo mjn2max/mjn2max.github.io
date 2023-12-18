@@ -34,16 +34,16 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: mjn2max
-twitter: mjn2max
+#facebook: mjn2max
+#twitter: mjn2max
 # instagram: mjn2max
-linkedin: mjn2max
+#linkedin: mjn2max
 github: mjn2max
-youtube: mjn2max
+#youtube: mjn2max
 # appstore:
 # playstore:
-buymeacoffee: mjn2max
-email: mjn2max@gmail.com
+#buymeacoffee: mjn2max
+#email: mjn2max@gmail.com
 # website1: mjn2max.com
 # website2: codepassion.dev
 
