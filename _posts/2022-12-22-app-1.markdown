@@ -7,10 +7,11 @@ image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-so
 headerImage: true
 projects: true
 hidden: true
-description: This is a simple and minimalist template for Jekyll for those who likes
+description:
+  This is a simple and minimalist template for Jekyll for those who likes
   to eat noodles.
 category: project
-author: johndoe
+author: mjn2max
 externalLink: false
 ---
 
