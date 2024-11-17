@@ -1,7 +1,7 @@
 ---
 title: Tally Counter Click
 layout: post
-date: 2016-01-23 22:10
+date: '2022-12-22 22:10:00'
 tag:
 - ios
 - android
@@ -27,11 +27,11 @@ Say hello to **Tally Counter Click** – your perfect counting companion and goo
 
 **Screenshots**
 
-![Screenshot 1](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image1.png)
-![Screenshot 2](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image2.png)
-![Screenshot 3](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image3.png)
-![Screenshot 4](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image4.png)
-![Screenshot 5](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image5.png)
+| -------- | -------- |
+| ![Screenshot 2](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image2.png)     | ![Screenshot 3](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image3.png)     |
+
+| -------- | -------- | -------- | 
+| ![Screenshot 4](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image4.png)     | ![Screenshot 5](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image5.png)     |   
 
 ---
 
@@ -60,7 +60,9 @@ We’re here for you! Contact us at: [appstore@mjn2max.com](mailto:appstore@mjn2
 
 Change Log:
 
-1.x Releases
+1.0 Releases
+
+* Inital App
 
 ---
 

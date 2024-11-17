@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-17T09:53:13-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2023-02-12T08:30:00-06:00</published><updated>2023-02-12T08:30:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-11-17T10:07:45-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Min Min</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">Efficiency Work, and Time Management</title><link href="http://localhost:4000/efficiency-work-and-time-management/" rel="alternate" type="text/html" title="Efficiency Work, and Time Management" /><published>2023-02-12T08:30:00-06:00</published><updated>2023-02-12T08:30:00-06:00</updated><id>http://localhost:4000/efficiency-work-and-time-management</id><content type="html" xml:base="http://localhost:4000/efficiency-work-and-time-management/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
 &lt;p&gt;Efficiency and time management are key components of software development. With an ever-increasing workload and tight deadlines, it’s important for developers to work in a way that maximizes their productivity and minimizes wasted time.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/blog/time-management.jpg&quot; alt=&quot;Banner&quot; /&gt;&lt;/p&gt;
@@ -63,7 +63,80 @@
 &lt;/ol&gt;
 
 &lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
-&lt;p&gt;In conclusion, pursuing our passions in software development is essential to our overall happiness and success in our careers. By taking time to work on the things we love, we can improve our motivation and engagement, increase our creativity, develop our skills, advance our careers, and find personal fulfillment. So, make sure to take time to pursue your passions in software development!&lt;/p&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword In software development, one of the keys to success is to work on things we love. When we are passionate about a project, we are more likely to put in the extra time and effort required to make it great. We also tend to have a better attitude and are more likely to be creative, which leads to better solutions and a more enjoyable experience for both ourselves and our users.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Stay Focused, and Self-Discipline</title><link href="http://localhost:4000/stay-focused-and-self-discipline/" rel="alternate" type="text/html" title="Stay Focused, and Self-Discipline" /><published>2022-12-09T21:30:00-06:00</published><updated>2022-12-09T21:30:00-06:00</updated><id>http://localhost:4000/stay-focused-and-self-discipline</id><content type="html" xml:base="http://localhost:4000/stay-focused-and-self-discipline/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
+&lt;p&gt;In conclusion, pursuing our passions in software development is essential to our overall happiness and success in our careers. By taking time to work on the things we love, we can improve our motivation and engagement, increase our creativity, develop our skills, advance our careers, and find personal fulfillment. So, make sure to take time to pursue your passions in software development!&lt;/p&gt;</content><author><name>mjn2max</name></author><category term="blog" /><category term="motivation" /><category term="development" /><category term="programming" /><summary type="html">Foreword In software development, one of the keys to success is to work on things we love. When we are passionate about a project, we are more likely to put in the extra time and effort required to make it great. We also tend to have a better attitude and are more likely to be creative, which leads to better solutions and a more enjoyable experience for both ourselves and our users.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tally Counter Click</title><link href="http://localhost:4000/tally-counter-click/" rel="alternate" type="text/html" title="Tally Counter Click" /><published>2022-12-22T22:10:00-06:00</published><updated>2022-12-22T22:10:00-06:00</updated><id>http://localhost:4000/tally-counter-click</id><content type="html" xml:base="http://localhost:4000/tally-counter-click/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/icon-light.png&quot; alt=&quot;Icon&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;📊 &lt;strong&gt;Track Anything, Anytime!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Say hello to &lt;strong&gt;Tally Counter Click&lt;/strong&gt; – your perfect counting companion and goodbye to traditional tally counters. Whether you’re tracking habits, inventory, event attendance, or anything else, this app makes counting simple and efficient with a sleek, user-friendly design.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Screenshots&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image2.png&quot; alt=&quot;Screenshot 2&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image3.png&quot; alt=&quot;Screenshot 3&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image4.png&quot; alt=&quot;Screenshot 4&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image5.png&quot; alt=&quot;Screenshot 5&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Why Choose Tally Counter?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tap to Count: Increase your count effortlessly with the large, responsive main button.&lt;/li&gt;
+  &lt;li&gt;Minus the Count: Need to adjust? Decrease the count instantly with the “Minus” button.&lt;/li&gt;
+  &lt;li&gt;Reset Anytime: Start fresh whenever you need with the reset option.&lt;/li&gt;
+  &lt;li&gt;Save Your Counts: Record and keep track of your progress at any time.&lt;/li&gt;
+  &lt;li&gt;User-Friendly Interface: A clean and minimalist design makes navigation a breeze.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Perfect for:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Habit tracking (fitness reps, water intake, etc.)&lt;/li&gt;
+  &lt;li&gt;Inventory management&lt;/li&gt;
+  &lt;li&gt;Event attendance&lt;/li&gt;
+  &lt;li&gt;Counting laps, scores, or patterns&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Support &amp;amp; Assistance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Need help? Have questions or feedback? 
+We’re here for you! Contact us at: &lt;a href=&quot;mailto:appstore@mjn2max.com&quot;&gt;appstore@mjn2max.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Change Log:&lt;/p&gt;
+
+&lt;p&gt;1.0 Releases&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Inital App&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Download:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/us/app/id6738299656&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Google Play: Coming soon…&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry><entry><title type="html">Stay Focused, and Self-Discipline</title><link href="http://localhost:4000/stay-focused-and-self-discipline/" rel="alternate" type="text/html" title="Stay Focused, and Self-Discipline" /><published>2022-12-09T21:30:00-06:00</published><updated>2022-12-09T21:30:00-06:00</updated><id>http://localhost:4000/stay-focused-and-self-discipline</id><content type="html" xml:base="http://localhost:4000/stay-focused-and-self-discipline/">&lt;h3 id=&quot;foreword&quot;&gt;Foreword&lt;/h3&gt;
 
 &lt;p&gt;As a software developer, it is crucial to continuously improve your skills and stay up-to-date with the latest technologies and industry trends. In this fast-paced and ever-evolving field, staying focused and disciplined can often be challenging. However, with the right approach and mindset, it is possible to develop a strong foundation for success.&lt;/p&gt;
 
@@ -192,6 +265,30 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/life-in-week-app&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/life-in-week-app&quot;&gt;Google Play&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry><entry><title type="html">Calculator App</title><link href="http://localhost:4000/calculator-app/" rel="alternate" type="text/html" title="Calculator App" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/calculator-app</id><content type="html" xml:base="http://localhost:4000/calculator-app/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Introducing the Simple Calculator App for iOS - a versatile and stylish tool for all your calculation needs. With its user-friendly interface and customizable themes, this app is perfect for anyone who wants to make quick and accurate calculations on the go.&lt;/p&gt;
+
+&lt;p&gt;The app includes all the basic arithmetic functions - addition, subtraction, multiplication, and division - along with more advanced functions such as square roots and percentages. The large display screen shows your calculations and results in real-time, ensuring that you can always see your work.&lt;/p&gt;
+
+&lt;p&gt;One of the standout features of this app is the ability to choose from multiple themes. Whether you prefer a classic look or something more modern, this app has a theme that will fit your personal style. With themes ranging from bright and bold to minimalistic and understated, you can easily find the perfect look for you.&lt;/p&gt;
+
+&lt;p&gt;In addition to its stylish themes, this app also offers a history log to keep track of all your previous calculations. This feature makes it easy to reference your work or repeat calculations, saving you time and effort.&lt;/p&gt;
+
+&lt;p&gt;Whether you’re a student, professional, or just someone who needs to make quick calculations, the Simple Calculator App for iOS is a must-have tool. So why wait? Download it today and start enjoying a simple, stylish, and versatile calculator experience!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Change Log:&lt;/p&gt;
+
+&lt;p&gt;1.x Releases&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Download:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/calculator-app&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/calculator-app&quot;&gt;Google Play&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry><entry><title type="html">Magic Pad App</title><link href="http://localhost:4000/magic-pad-app/" rel="alternate" type="text/html" title="Magic Pad App" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/magic-pad-app</id><content type="html" xml:base="http://localhost:4000/magic-pad-app/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -218,85 +315,4 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/magic-pad-app&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/magic-pad-app&quot;&gt;Google Play&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry><entry><title type="html">Tally Counter Click</title><link href="http://localhost:4000/tally-counter-click/" rel="alternate" type="text/html" title="Tally Counter Click" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/tally-counter-click</id><content type="html" xml:base="http://localhost:4000/tally-counter-click/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/icon-light.png&quot; alt=&quot;Icon&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;📊 &lt;strong&gt;Track Anything, Anytime!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Say hello to &lt;strong&gt;Tally Counter Click&lt;/strong&gt; – your perfect counting companion and goodbye to traditional tally counters. Whether you’re tracking habits, inventory, event attendance, or anything else, this app makes counting simple and efficient with a sleek, user-friendly design.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Screenshots&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image1.png&quot; alt=&quot;Screenshot 1&quot; /&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image2.png&quot; alt=&quot;Screenshot 2&quot; /&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image3.png&quot; alt=&quot;Screenshot 3&quot; /&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image4.png&quot; alt=&quot;Screenshot 4&quot; /&gt;
-&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image5.png&quot; alt=&quot;Screenshot 5&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Why Choose Tally Counter?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tap to Count: Increase your count effortlessly with the large, responsive main button.&lt;/li&gt;
-  &lt;li&gt;Minus the Count: Need to adjust? Decrease the count instantly with the “Minus” button.&lt;/li&gt;
-  &lt;li&gt;Reset Anytime: Start fresh whenever you need with the reset option.&lt;/li&gt;
-  &lt;li&gt;Save Your Counts: Record and keep track of your progress at any time.&lt;/li&gt;
-  &lt;li&gt;User-Friendly Interface: A clean and minimalist design makes navigation a breeze.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Perfect for:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Habit tracking (fitness reps, water intake, etc.)&lt;/li&gt;
-  &lt;li&gt;Inventory management&lt;/li&gt;
-  &lt;li&gt;Event attendance&lt;/li&gt;
-  &lt;li&gt;Counting laps, scores, or patterns&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Support &amp;amp; Assistance&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Need help? Have questions or feedback? 
-We’re here for you! Contact us at: &lt;a href=&quot;mailto:appstore@mjn2max.com&quot;&gt;appstore@mjn2max.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Change Log:&lt;/p&gt;
-
-&lt;p&gt;1.x Releases&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Download:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/us/app/id6738299656&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Google Play: Coming soon…&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry><entry><title type="html">Calculator App</title><link href="http://localhost:4000/calculator-app/" rel="alternate" type="text/html" title="Calculator App" /><published>2016-01-23T22:10:00-06:00</published><updated>2016-01-23T22:10:00-06:00</updated><id>http://localhost:4000/calculator-app</id><content type="html" xml:base="http://localhost:4000/calculator-app/">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg&quot; alt=&quot;Screenshot&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Introducing the Simple Calculator App for iOS - a versatile and stylish tool for all your calculation needs. With its user-friendly interface and customizable themes, this app is perfect for anyone who wants to make quick and accurate calculations on the go.&lt;/p&gt;
-
-&lt;p&gt;The app includes all the basic arithmetic functions - addition, subtraction, multiplication, and division - along with more advanced functions such as square roots and percentages. The large display screen shows your calculations and results in real-time, ensuring that you can always see your work.&lt;/p&gt;
-
-&lt;p&gt;One of the standout features of this app is the ability to choose from multiple themes. Whether you prefer a classic look or something more modern, this app has a theme that will fit your personal style. With themes ranging from bright and bold to minimalistic and understated, you can easily find the perfect look for you.&lt;/p&gt;
-
-&lt;p&gt;In addition to its stylish themes, this app also offers a history log to keep track of all your previous calculations. This feature makes it easy to reference your work or repeat calculations, saving you time and effort.&lt;/p&gt;
-
-&lt;p&gt;Whether you’re a student, professional, or just someone who needs to make quick calculations, the Simple Calculator App for iOS is a must-have tool. So why wait? Download it today and start enjoying a simple, stylish, and versatile calculator experience!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Change Log:&lt;/p&gt;
-
-&lt;p&gt;1.x Releases&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Download:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/calculator-app&quot;&gt;App Store&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://mjn2max.github.io/calculator-app&quot;&gt;Google Play&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>mjn2max</name></author><category term="project" /><category term="ios" /><category term="android" /><category term="product" /><category term="app store" /><summary type="html"></summary></entry></feed>
