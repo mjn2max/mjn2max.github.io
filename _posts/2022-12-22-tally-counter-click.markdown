@@ -21,7 +21,7 @@ externalLink: false
 
 📊 **Track Anything, Anytime!**
 
-Say hello to **Tally Counter Click** – your perfect counting companion and goodbye to traditional tally counters. Whether you’re tracking habits, inventory, event attendance, or anything else, this app makes counting simple and efficient with a sleek, user-friendly design.
+Say hello to **Tally Counter Click** – your perfect counting companion, and goodbye to traditional tally counters. Whether you’re tracking habits, inventory, event attendance, or anything else, this app makes counting simple and efficient with a sleek, user-friendly design.
 
 ---
 
@@ -51,13 +51,13 @@ Say hello to **Tally Counter Click** – your perfect counting companion and goo
 
 ---
 
+**Downloads**
+- App Store: [https://apps.apple.com/app/id6738299656](https://apps.apple.com/app/id6738299656)
+- Google Play: Coming soon...
+
+---
+
 **Support & Assistance**
 
 Need help? Have questions or feedback? 
 We’re here for you! Contact us at: [appstore@mjn2max.com](mailto:appstore@mjn2max.com)
-
----
-
-Download:
-- [App Store](https://apps.apple.com/app/id6738299656)
-- Google Play: Coming soon...
