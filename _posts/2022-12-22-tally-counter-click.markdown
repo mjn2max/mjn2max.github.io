@@ -28,10 +28,10 @@ Say hello to **Tally Counter Click** – your perfect counting companion and goo
 **Screenshots**
 
 | -------- | -------- |
-| ![Screenshot 2](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image2.png)     | ![Screenshot 3](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image3.png)     |
+| ![Screenshot 1](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/1.png)     | ![Screenshot 2](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/2.png)     |
 
 | -------- | -------- | -------- | 
-| ![Screenshot 4](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image4.png)     | ![Screenshot 5](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/image5.png)     |   
+| ![Screenshot 3](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/3.png)     | ![Screenshot 4](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/4.png)     |   
 
 ---
 
@@ -58,14 +58,6 @@ We’re here for you! Contact us at: [appstore@mjn2max.com](mailto:appstore@mjn2
 
 ---
 
-Change Log:
-
-1.0 Releases
-
-* Inital App
-
----
-
 Download:
-- [App Store](https://apps.apple.com/us/app/id6738299656)
+- [App Store](https://apps.apple.com/app/id6738299656)
 - Google Play: Coming soon...
