@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Icon](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/icon-light.png)
+![Icon](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/app-icon-light.png)
 
 ---
 
