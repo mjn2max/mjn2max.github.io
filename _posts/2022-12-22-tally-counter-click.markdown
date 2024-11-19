@@ -28,10 +28,10 @@ Say hello to **Tally Counter Click** – your perfect counting companion, and go
 **Screenshots**
 
 | -------- | -------- |
-| ![Screenshot 1](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/1.png)     | ![Screenshot 2](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/2.png)     |
+| ![Screenshot 1](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/1.png) | ![Screenshot 2](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/2.png) |
 
 | -------- | -------- | -------- | 
-| ![Screenshot 3](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/3.png)     | ![Screenshot 4](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/4.png)     |   
+| ![Screenshot 3](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/3.png) | ![Screenshot 4](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/4.png) |   
 
 ---
 
