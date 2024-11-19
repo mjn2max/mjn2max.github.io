@@ -3,10 +3,10 @@ title: Magic Mousepad
 layout: post
 date: 2023-05-14 02:45
 tag:
-  - ios
-  - android
-  - product
-  - app store
+- ios
+- android
+- product
+- app store
 projects: true
 hidden: true
 description: Set It. Vibrate. Automate
@@ -24,8 +24,6 @@ externalLink: false
 Turn your smartphone into a powerful tool with Magic Mousepad! Whether you’re looking to set reminders, keep your computer awake, or automate tasks, Magic Mousepad has you covered.
 
 ---
-
-**Screenshots**
 
 | -------- | -------- |
 | ![Screenshot 1](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/magic-mousepad/1.png) | ![Screenshot 2](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/magic-mousepad/2.png) |

@@ -25,8 +25,6 @@ Say hello to **Tally Counter Click** – your perfect counting companion, and go
 
 ---
 
-**Screenshots**
-
 | -------- | -------- |
 | ![Screenshot 1](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/1.png) | ![Screenshot 2](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/2.png) |
 
