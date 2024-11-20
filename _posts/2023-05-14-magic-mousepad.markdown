@@ -3,10 +3,10 @@ title: Magic Mousepad
 layout: post
 date: 2023-05-14 02:45
 tag:
-- ios
-- android
-- product
-- app store
+  - ios
+  - android
+  - product
+  - app store
 projects: true
 hidden: true
 description: Set It. Vibrate. Automate
@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Icon](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/magic-mousepad/app-icon-light.png)
+![Icon](../assets/projects/magic-mousepad/app-icon-light.png)
 
 ---
 
@@ -26,10 +26,10 @@ Turn your smartphone into a powerful tool with Magic Mousepad! Whether you’re 
 ---
 
 | -------- | -------- |
-| ![Screenshot 1](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/magic-mousepad/1.png) | ![Screenshot 2](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/magic-mousepad/2.png) |
+| ![Screenshot 1](../assets/projects/magic-mousepad/1.png) | ![Screenshot 2](../assets/projects/magic-mousepad/2.png) |
 
 | -------- | -------- | -------- |
-| ![Screenshot 3](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/magic-mousepad/3.png) | ![Screenshot 4](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/magic-mousepad/4.png) |
+| ![Screenshot 3](../assets/projects/magic-mousepad/3.png) | ![Screenshot 4](../assets/projects/magic-mousepad/4.png) |
 
 ---
 

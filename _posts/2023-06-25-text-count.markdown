@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Icon](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/text-count/app-icon-light.png)
+![Icon](../assets/projects/text-count/app-icon-light.png)
 
 ---
 
@@ -26,10 +26,10 @@ Say hello to **Tally Counter Click** – your perfect counting companion, and go
 ---
 
 | -------- | -------- |
-| ![Screenshot 1](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/text-count/1.png) | ![Screenshot 2](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/text-count/2.png) |
+| ![Screenshot 1](../assets/projects/text-count/1.png) | ![Screenshot 2](../assets/projects/text-count/2.png) |
 
 | -------- | -------- | -------- |
-| ![Screenshot 3](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/text-count/3.png) | ![Screenshot 4](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/text-count/4.png) |
+| ![Screenshot 3](../assets/projects/text-count/3.png) | ![Screenshot 4](../assets/projects/text-count/4.png) |
 
 ---
 

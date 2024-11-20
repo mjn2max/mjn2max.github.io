@@ -1,24 +1,26 @@
 ---
 title: Work On Things You Are Passionate
 layout: post
-date: '2023-01-15 22:30:00'
+date: "2023-01-15 22:30:00"
 image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
-- motivation
-- development
-- programming
+  - motivation
+  - development
+  - programming
 category: blog
 author: mjn2max
 description: Work on Things we Really Love
 ---
 
 ### Foreword
+
 In software development, one of the keys to success is to work on things we love. When we are passionate about a project, we are more likely to put in the extra time and effort required to make it great. We also tend to have a better attitude and are more likely to be creative, which leads to better solutions and a more enjoyable experience for both ourselves and our users.
 
 Working on things we love also helps us to avoid burnout. When we are engaged and excited about a project, it is less likely to feel like work and more likely to be a source of energy and motivation. This, in turn, leads to better work-life balance and a more fulfilling career.
 
 ![Banner](../assets/blog/friendly-workspace.jpg)
+
 <figcaption class="caption">Friendly Workspace - <a href="http://www.freepik.com">Designed by Freepik</a></figcaption>
 
 ---
@@ -34,4 +36,5 @@ Working on things we love also helps us to avoid burnout. When we are engaged an
 5. Personal Fulfillment: Finally, working on things we love in software development can bring a sense of personal fulfillment and satisfaction. When we are working on something we are passionate about, we are more likely to feel like we are making a positive impact and that our work has a greater purpose.
 
 ### Summary
+
 In conclusion, pursuing our passions in software development is essential to our overall happiness and success in our careers. By taking time to work on the things we love, we can improve our motivation and engagement, increase our creativity, develop our skills, advance our careers, and find personal fulfillment. So, make sure to take time to pursue your passions in software development!

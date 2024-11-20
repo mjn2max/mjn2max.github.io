@@ -1,16 +1,17 @@
 ---
 title: Stay Focused, and Self-Discipline
 layout: post
-date: '2022-12-09 21:30:00'
+date: "2022-12-09 21:30:00"
 image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
-- motivation
-- development
-- programming
+  - motivation
+  - development
+  - programming
 category: blog
 author: mjn2max
-description: It's important to keep yourself up to date with the fast changing technology.
+description:
+  It's important to keep yourself up to date with the fast changing technology.
   From that, you are ensuring your knowledge won't be out of date and you will stay
   on top of changing demands of the workplace.
 ---
@@ -20,6 +21,7 @@ description: It's important to keep yourself up to date with the fast changing t
 As a software developer, it is crucial to continuously improve your skills and stay up-to-date with the latest technologies and industry trends. In this fast-paced and ever-evolving field, staying focused and disciplined can often be challenging. However, with the right approach and mindset, it is possible to develop a strong foundation for success.
 
 ![Banner](../assets/blog/self-management.jpg)
+
 <figcaption class="caption">Self-Management - <a href="http://www.freepik.com">Designed by Freepik</a></figcaption>
 
 ---
@@ -39,6 +41,7 @@ Here are some tips to help you keep learning, stay focused, and maintain self-di
 ---
 
 ### Summary
+
 By following these tips, you can develop the habits of self-discipline and focus, which are essential for success in software development. Stay committed to your goals, be willing to learn, and never stop pushing yourself to be better.
 
 <div class="side-by-side">

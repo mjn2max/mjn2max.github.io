@@ -1,12 +1,12 @@
 ---
 title: Lite QR
 layout: post
-date: '2023-02-15 22:15:00'
+date: "2023-02-15 22:15:00"
 tag:
-- ios
-- android
-- product
-- app store
+  - ios
+  - android
+  - product
+  - app store
 projects: true
 hidden: true
 description: Scan and generate QR codes in seconds with this sleek
@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Icon](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/lite-qr/app-icon-light.png)
+![Icon](../assets/projects/lite-qr/app-icon-light.png)
 
 ---
 
@@ -26,10 +26,10 @@ Say hello to **Tally Counter Click** – your perfect counting companion, and go
 ---
 
 | -------- | -------- |
-| ![Screenshot 1](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/1.png) | ![Screenshot 2](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/2.png) |
+| ![Screenshot 1](../assets/projects/tally-counter-click/1.png) | ![Screenshot 2](../assets/projects/tally-counter-click/2.png) |
 
 | -------- | -------- | -------- |
-| ![Screenshot 3](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/3.png) | ![Screenshot 4](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/blog/tally-counter-click/4.png) |
+| ![Screenshot 3](../assets/projects/tally-counter-click/3.png) | ![Screenshot 4](../assets/projects/tally-counter-click/4.png) |
 
 ---
 

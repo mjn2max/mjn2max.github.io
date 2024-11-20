@@ -3,10 +3,10 @@ title: Calculator App
 layout: post
 date: 2016-01-23 22:10
 tag:
-- ios
-- android
-- product
-- app store
+  - ios
+  - android
+  - product
+  - app store
 projects: true
 hidden: true
 description: A versatile and stylish tool for all your calculation needs
@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg)
+![Screenshot](../assets/images/coming-soon.jpg)
 
 Introducing the Simple Calculator App for iOS - a versatile and stylish tool for all your calculation needs. With its user-friendly interface and customizable themes, this app is perfect for anyone who wants to make quick and accurate calculations on the go.
 
@@ -36,5 +36,6 @@ Change Log:
 ---
 
 Download:
+
 - [App Store](https://mjn2max.github.io/calculator-app)
 - [Google Play](https://mjn2max.github.io/calculator-app)

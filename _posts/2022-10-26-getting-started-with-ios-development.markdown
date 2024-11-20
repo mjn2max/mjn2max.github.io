@@ -1,16 +1,17 @@
 ---
 title: Getting Started with iOS Development
 layout: post
-date: '2022-10-26 19:30:00'
+date: "2022-10-26 19:30:00"
 image: "/assets/images/markdown.jpg"
 headerImage: false
 tag:
-- ios
-- development
-- programming
+  - ios
+  - development
+  - programming
 category: blog
 author: mjn2max
-description: This is a brief article showing some of the minimum requirements you
+description:
+  This is a brief article showing some of the minimum requirements you
   should preapre to become an iOS Developer.
 ---
 
@@ -19,6 +20,7 @@ description: This is a brief article showing some of the minimum requirements yo
 iOS is Apple's mobile operating system that runs on iPhones, iPads, and iPods. With the increasing popularity of Apple devices, there has been a growing demand for iOS developers who can create engaging and user-friendly apps for the platform. If you're interested in developing for iOS, this simple guide will get you started.
 
 ![Banner](../assets/blog/app-development.jpg)
+
 <figcaption class="caption">App Development - <a href="http://www.freepik.com">Designed by Freepik</a></figcaption>
 
 ---
@@ -45,10 +47,12 @@ Getting started with iOS development can seem daunting, but with the right resou
 
 1. <a href="https://apps.apple.com/us/app/apple-developer/id640199958" target="_blank">Apple Developer</a>: available on macOS and iOS. Resources for developer stories, news, and educational information — and the best place to experience WWDC.
 
-2. <a href="https://www.kodeco.com/" target="_blank">Kodeco</a>: The largest and most up-to-date collection of development courses on iOS, Swift, Android, Kotlin, Flutter, Server Side Swift, Unity and more.
+2. <a href="https://www.kodeco.com/" target="_blank">Kodeco</a>: the largest and most up-to-date collection of development courses on iOS, Swift, Android, Kotlin, Flutter, Server Side Swift, Unity and more.
 
-3. <a href="https://www.appcoda.com" target="_blank">AppCoda</a>: how to build apps with high quality and easy-to-read tutorials.
+3. <a href="https://www.appcoda.com" target="_blank">AppCoda</a>: offers tutorials, guides, and books designed for both beginners and experienced developers, covering topics like Swift programming, UIKit, SwiftUI, and other iOS development tools.
 
-4. <a href="https://www.hackingwithswift.com" target="_blank">Hacking with Swift</a>: Programming is an art. Don't spend all your time sharpening your pencil when you should be drawing.
+4. <a href="https://designcode.io/" target="_blank">Design+Code</a>: provides hands-on learning for web, iOS, and UI/UX design, blending creative and technical skills for aspiring designers and developers.
+
+5. <a href="https://www.hackingwithswift.com" target="_blank">Hacking with Swift</a>: programming is an art. Don't spend all your time sharpening your pencil when you should be drawing.
 
 ---

@@ -3,10 +3,10 @@ title: Life In Week App
 layout: post
 date: 2016-01-23 22:10
 tag:
-- ios
-- android
-- product
-- app store
+  - ios
+  - android
+  - product
+  - app store
 projects: true
 hidden: true
 description: Stay motivated and on track towards your goals
@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/mjn2max/mjn2max.github.io/main/assets/images/coming-soon.jpg)
+![Screenshot](../assets/images/coming-soon.jpg)
 
 ---
 
