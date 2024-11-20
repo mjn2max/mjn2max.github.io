@@ -1,7 +1,7 @@
 ---
 title: Magic Mousepad
 layout: post
-date: 2023-05-14 02:45
+date: 2023-05-12 02:45
 tag:
   - ios
   - android
@@ -57,5 +57,5 @@ Turn your smartphone into a powerful tool with Magic Mousepad! Whether you’re 
 
 **Support & Assistance**
 
-Need help? Have questions or feedback?
+Need help? Have questions or feedback?\
 We’re here for you! Contact us at: [appstore@mjn2max.com](mailto:appstore@mjn2max.com)

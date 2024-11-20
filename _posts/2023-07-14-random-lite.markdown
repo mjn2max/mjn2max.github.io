@@ -1,7 +1,7 @@
 ---
-title: Text Count
+title: Random Lite
 layout: post
-date: "2023-06-25 18:18:00"
+date: "2023-07-14 18:18:00"
 tag:
   - ios
   - android
@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Icon](../assets/projects/text-count/app-icon-light.png)
+![Icon](../assets/projects/random-lite/app-icon-light.png)
 
 ---
 
@@ -26,10 +26,10 @@ Say hello to **Tally Counter Click** – your perfect counting companion, and go
 ---
 
 | -------- | -------- |
-| ![Screenshot 1](../assets/projects/text-count/1.png) | ![Screenshot 2](../assets/projects/text-count/2.png) |
+| ![Screenshot 1](../assets/projects/random-lite/1.png) | ![Screenshot 2](../assets/projects/random-lite/2.png) |
 
 | -------- | -------- | -------- |
-| ![Screenshot 3](../assets/projects/text-count/3.png) | ![Screenshot 4](../assets/projects/text-count/4.png) |
+| ![Screenshot 3](../assets/projects/random-lite/3.png) | ![Screenshot 4](../assets/projects/random-lite/4.png) |
 
 ---
 
@@ -52,7 +52,7 @@ Say hello to **Tally Counter Click** – your perfect counting companion, and go
 
 **Downloads**
 
-- App Store: [https://apps.apple.com/app/id6738300314](https://apps.apple.com/app/id6738300314)
+- App Store: [https://apps.apple.com/app/id6738300000](https://apps.apple.com/app/id6738300000)
 - Google Play: Coming soon...
 
 ---

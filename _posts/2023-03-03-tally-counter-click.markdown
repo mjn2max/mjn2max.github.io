@@ -1,7 +1,7 @@
 ---
 title: Tally Counter Click
 layout: post
-date: "2022-12-22 22:10:00"
+date: "2023-03-03 22:10:00"
 tag:
   - ios
   - android
@@ -59,5 +59,5 @@ Say hello to **Tally Counter Click** – your perfect counting companion, and go
 
 **Support & Assistance**
 
-Need help? Have questions or feedback?
+Need help? Have questions or feedback?\
 We’re here for you! Contact us at: [appstore@mjn2max.com](mailto:appstore@mjn2max.com)
