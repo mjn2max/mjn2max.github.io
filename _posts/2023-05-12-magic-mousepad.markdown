@@ -3,10 +3,10 @@ title: Magic Mousepad
 layout: post
 date: 2023-05-12 02:45
 tag:
-  - ios
-  - android
-  - product
-  - app store
+- ios
+- android
+- product
+- app store
 projects: true
 hidden: true
 description: Set It. Vibrate. Automate
@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Icon](../assets/projects/magic-mousepad/app-icon-light.png)
+![Icon](../assets/projects/magic-mousepad/Icon-Dark-1024x1024.png)
 
 ---
 

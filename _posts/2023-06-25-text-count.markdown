@@ -1,12 +1,12 @@
 ---
 title: Text Count
 layout: post
-date: "2023-06-25 18:18:00"
+date: '2023-06-25 18:18:00'
 tag:
-  - ios
-  - android
-  - product
-  - app store
+- ios
+- android
+- product
+- app store
 projects: true
 hidden: true
 description: Keeping track of numbers and counting
@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Icon](../assets/projects/text-count/app-icon-light.png)
+![Icon](../assets/projects/text-count/Icon-Dark-1024x1024.png)
 
 ---
 

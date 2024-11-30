@@ -1,12 +1,12 @@
 ---
 title: Lite QR
 layout: post
-date: "2023-04-08 22:15:00"
+date: '2023-04-08 22:15:00'
 tag:
-  - ios
-  - android
-  - product
-  - app store
+- ios
+- android
+- product
+- app store
 projects: true
 hidden: true
 description: Scan and generate QR codes in seconds with this sleek
@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Icon](../assets/projects/lite-qr/app-icon-light.png)
+![Icon](../assets/projects/lite-qr/Icon-Dark-1024x1024.png)
 
 ---
 

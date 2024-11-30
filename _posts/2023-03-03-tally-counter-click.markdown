@@ -1,12 +1,12 @@
 ---
 title: Tally Counter Click
 layout: post
-date: "2023-03-03 22:10:00"
+date: '2023-03-03 22:10:00'
 tag:
-  - ios
-  - android
-  - product
-  - app store
+- ios
+- android
+- product
+- app store
 projects: true
 hidden: true
 description: Keeping track of numbers and counting
@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Icon](../assets/projects/tally-counter-click/app-icon-light.png)
+![Icon](../assets/projects/tally-counter-click/Icon-Dark-1024x1024.png)
 
 ---
 

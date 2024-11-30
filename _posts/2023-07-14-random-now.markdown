@@ -1,12 +1,12 @@
 ---
 title: Random Lite
 layout: post
-date: "2023-07-14 18:18:00"
+date: '2023-07-14 18:18:00'
 tag:
-  - ios
-  - android
-  - product
-  - app store
+- ios
+- android
+- product
+- app store
 projects: true
 hidden: true
 description: Keeping track of numbers and counting
@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Icon](../assets/projects/random-lite/app-icon-light.png)
+![Icon](../assets/projects/random-now/Icon-Dark-1024x1024.png)
 
 ---
 
@@ -26,10 +26,10 @@ Say hello to **Tally Counter Click** – your perfect counting companion, and go
 ---
 
 | -------- | -------- |
-| ![Screenshot 1](../assets/projects/random-lite/1.png) | ![Screenshot 2](../assets/projects/random-lite/2.png) |
+| ![Screenshot 1](../assets/projects/random-now/1.png) | ![Screenshot 2](../assets/projects/random-now/2.png) |
 
 | -------- | -------- | -------- |
-| ![Screenshot 3](../assets/projects/random-lite/3.png) | ![Screenshot 4](../assets/projects/random-lite/4.png) |
+| ![Screenshot 3](../assets/projects/random-now/3.png) | ![Screenshot 4](../assets/projects/random-now/4.png) |
 
 ---
 
@@ -52,7 +52,7 @@ Say hello to **Tally Counter Click** – your perfect counting companion, and go
 
 **Downloads**
 
-- App Store: [https://apps.apple.com/app/id6738300000](https://apps.apple.com/app/id6738300000)
+- App Store: [https://apps.apple.com/app/id6738300374](https://apps.apple.com/app/id6738300374)
 - Google Play: Coming soon...
 
 ---
