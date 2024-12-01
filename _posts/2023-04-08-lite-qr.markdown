@@ -19,34 +19,29 @@ externalLink: false
 
 ---
 
-📊 **Track Anything, Anytime!**
+**Scan, Generate, and Share with Ease – Meet Lite QR!**
 
-Say hello to **Tally Counter Click** – your perfect counting companion, and goodbye to traditional tally counters. Whether you’re tracking habits, inventory, event attendance, or anything else, this app makes counting simple and efficient with a sleek, user-friendly design.
+Lite QR is the fast, simple, and lightweight app for all your QR code needs. Whether you want to scan a code instantly or create your own custom QR codes, Lite QR has you covered. Designed to be intuitive and efficient, it’s the perfect companion for all QR-related tasks.
 
 ---
 
-| -------- | -------- |
-| ![Screenshot 1](../assets/projects/tally-counter-click/1.png) | ![Screenshot 2](../assets/projects/tally-counter-click/2.png) |
-
-| -------- | -------- | -------- |
-| ![Screenshot 3](../assets/projects/tally-counter-click/3.png) | ![Screenshot 4](../assets/projects/tally-counter-click/4.png) |
+![Screenshot](../assets/images/coming-soon.jpg)
 
 ---
 
 **Why Choose Tally Counter?**
 
-- Tap to Count: Increase your count effortlessly with the large, responsive main button.
-- Minus the Count: Need to adjust? Decrease the count instantly with the “Minus” button.
-- Reset Anytime: Start fresh whenever you need with the reset option.
-- Save Your Counts: Record and keep track of your progress at any time.
-- User-Friendly Interface: A clean and minimalist design makes navigation a breeze.
+- Instant QR Code Scanning: Quickly scan any QR code with lightning-fast recognition.
+- Custom QR Code Generator: Create QR codes for links, text, emails, Wi-Fi, and more.
+- History & Favorites: Keep track of scanned codes and save your favorites for quick access.
+- Safe and Secure: No unnecessary permissions. Your data stays private.
+- Lightweight Design: Small in size, big on functionality – Lite QR won’t take up valuable storage.
 
 **Perfect for:**
 
-- Habit tracking (fitness reps, water intake, etc.)
-- Inventory management
-- Event attendance
-- Counting laps, scores, or patterns
+- No clutter, no ads – just a sleek, efficient experience.
+- Perfect for personal and professional use.
+- Works offline for generating QR codes anytime, anywhere.
 
 ---
 

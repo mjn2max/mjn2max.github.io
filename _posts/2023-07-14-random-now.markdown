@@ -15,7 +15,7 @@ author: mjn2max
 externalLink: false
 ---
 
-![Icon](../assets/projects/random-now/Icon-Dark-1024x1024.png)
+![Icon](../assets/projects/random-now/Icon-Light-1024x1024.png)
 
 ---
 
