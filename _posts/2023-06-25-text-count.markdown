@@ -9,7 +9,7 @@ tag:
 - app store
 projects: true
 hidden: true
-description: Keeping track of numbers and counting
+description: Words & Characters Tracker
 category: project
 author: mjn2max
 externalLink: false
@@ -19,9 +19,9 @@ externalLink: false
 
 ---
 
-📊 **Track Anything, Anytime!**
+**Unlock the Power of Precision with Text Count!**
 
-Say hello to **Tally Counter Click** – your perfect counting companion, and goodbye to traditional tally counters. Whether you’re tracking habits, inventory, event attendance, or anything else, this app makes counting simple and efficient with a sleek, user-friendly design.
+Text Count is the ultimate tool for writers, students, and professionals who need accurate word and character tracking in real-time. Whether you’re crafting an email, working on an essay, or creating social media captions, Text Count ensures you stay on track with your text goals.
 
 ---
 
@@ -33,20 +33,20 @@ Say hello to **Tally Counter Click** – your perfect counting companion, and go
 
 ---
 
-**Why Choose Tally Counter?**
+**Why Choose Text Count?**
 
-- Tap to Count: Increase your count effortlessly with the large, responsive main button.
-- Minus the Count: Need to adjust? Decrease the count instantly with the “Minus” button.
-- Reset Anytime: Start fresh whenever you need with the reset option.
-- Save Your Counts: Record and keep track of your progress at any time.
-- User-Friendly Interface: A clean and minimalist design makes navigation a breeze.
+- Real-Time Word & Character Count: See your stats update instantly as you type, paste, or edit text.
+- Effortless Multi-Line Input: Write freely with a scrollable, distraction-free text editor.
+- Clear All with One Tap: Quickly erase all text with the Clear button for a fresh start.
+- Smooth Scrolling: Easily navigate through long-form text while staying focused.
+- Adaptive Design: Optimized for all screen sizes, so your words are always within reach.
 
 **Perfect for:**
 
-- Habit tracking (fitness reps, water intake, etc.)
-- Inventory management
-- Event attendance
-- Counting laps, scores, or patterns
+- Drafting essays, reports, or assignments.
+- Staying within character limits for social media posts.
+- Tracking writing goals or adhering to text requirements.
+- Writing precise headlines, taglines, or captions.
 
 ---
 
