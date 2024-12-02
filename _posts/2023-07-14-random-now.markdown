@@ -35,10 +35,12 @@ Random Now is your ultimate tool for generating random numbers, strings, colors,
 
 **Why Choose Random Now?**
 
-- Intuitive and user-friendly interface.
-- Customizable options for each random generator.
-- Fast, reliable, and lightweight.
-- Perfect for games, design projects, security, and beyond.
+- Random Numbers: Instantly generate integers or decimals within your desired range for gaming, decision-making, or statistical needs.
+- Random Strings & Passwords: Create unique and secure alphanumeric strings or passwords that keep your data safe.
+- Random Colors: Discover new color inspirations in HEX, RGB, or HSL formats, perfect for designers and artists.
+- Random Date & Time: Pick a random moment in time—great for scheduling surprises or exploring the past and future.
+- Random Geolocation: Explore the globe with a randomly generated latitude and longitude, bringing adventure to your fingertips.
+- Random Emojis: Generate playful, random emojis to spark creativity or add flair to your messages.
 
 **Perfect For:**
 
