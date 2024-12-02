@@ -33,14 +33,14 @@ Turn your smartphone into a powerful tool with Magic Mousepad! Whether you’re 
 
 ---
 
-**Features:**
+**Why Choose Magic Mousepad?**
 
 - Vibrating Timer: Stay on track with timed vibrations. Set intervals to get a gentle buzz, keeping you focused and productive.
 - Mouse Motion Automation: Prevent your computer from going idle by placing your mouse on your phone. The vibration will move the mouse, simulating activity.
 - Customizable Intervals: Adjust vibration frequency to suit your needs. Repeat indefinitely or stop whenever you want.
 - Simple & Intuitive: Designed for ease of use with a minimalist interface—get started in seconds!
 
-**Perfect for:**
+**Perfect For:**
 
 - Staying productive during long sessions.
 - Keeping your computer awake during important tasks.

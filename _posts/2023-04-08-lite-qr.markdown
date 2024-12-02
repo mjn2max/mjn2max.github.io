@@ -29,7 +29,7 @@ Lite QR is the fast, simple, and lightweight app for all your QR code needs. Whe
 
 ---
 
-**Why Choose Tally Counter?**
+**Why Choose Lite QR?**
 
 - Instant QR Code Scanning: Quickly scan any QR code with lightning-fast recognition.
 - Custom QR Code Generator: Create QR codes for links, text, emails, Wi-Fi, and more.
@@ -37,7 +37,7 @@ Lite QR is the fast, simple, and lightweight app for all your QR code needs. Whe
 - Safe and Secure: No unnecessary permissions. Your data stays private.
 - Lightweight Design: Small in size, big on functionality – Lite QR won’t take up valuable storage.
 
-**Perfect for:**
+**Perfect For:**
 
 - No clutter, no ads – just a sleek, efficient experience.
 - Perfect for personal and professional use.

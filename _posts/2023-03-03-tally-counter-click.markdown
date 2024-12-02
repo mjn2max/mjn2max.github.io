@@ -19,9 +19,9 @@ externalLink: false
 
 ---
 
-📊 **Track Anything, Anytime!**
+**Track Anything, Anytime!**
 
-Say hello to **Tally Counter Click** – your perfect counting companion, and goodbye to traditional tally counters. Whether you’re tracking habits, inventory, event attendance, or anything else, this app makes counting simple and efficient with a sleek, user-friendly design.
+Say hello to Tally Counter Click – your perfect counting companion, and goodbye to traditional tally counters. Whether you’re tracking habits, inventory, event attendance, or anything else, this app makes counting simple and efficient with a sleek, user-friendly design.
 
 ---
 
@@ -41,12 +41,12 @@ Say hello to **Tally Counter Click** – your perfect counting companion, and go
 - Save Your Counts: Record and keep track of your progress at any time.
 - User-Friendly Interface: A clean and minimalist design makes navigation a breeze.
 
-**Perfect for:**
+**Perfect For:**
 
-- Habit tracking (fitness reps, water intake, etc.)
-- Inventory management
-- Event attendance
-- Counting laps, scores, or patterns
+- Habit tracking (fitness reps, water intake, etc.).
+- Inventory management.
+- Event attendance.
+- Counting laps, scores, or patterns.
 
 ---
 

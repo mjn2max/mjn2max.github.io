@@ -40,7 +40,7 @@ Random Now is your ultimate tool for generating random numbers, strings, colors,
 - Fast, reliable, and lightweight.
 - Perfect for games, design projects, security, and beyond.
 
-**Perfect for:**
+**Perfect For:**
 
 - Gamers: Roll dice, randomize outcomes, or create unpredictable game scenarios.
 - Designers & Creatives: Find fresh color inspiration or random ideas for projects.

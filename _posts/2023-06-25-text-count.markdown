@@ -41,7 +41,7 @@ Text Count is the ultimate tool for writers, students, and professionals who nee
 - Smooth Scrolling: Easily navigate through long-form text while staying focused.
 - Adaptive Design: Optimized for all screen sizes, so your words are always within reach.
 
-**Perfect for:**
+**Perfect For:**
 
 - Drafting essays, reports, or assignments.
 - Staying within character limits for social media posts.

@@ -29,7 +29,7 @@ Whether you’re solving basic math problems, calculating tips, or tackling comp
 
 ---
 
-**Why Choose Tally Counter?**
+**Why Choose Calculator App?**
 
 - Basic Calculator: Perform everyday calculations with ease—addition, subtraction, multiplication, and division.
 - Scientific Calculator: Solve advanced problems with functions like trigonometry, exponents, logarithms, and more.
@@ -38,7 +38,7 @@ Whether you’re solving basic math problems, calculating tips, or tackling comp
 - Percentage & Tips: Quickly calculate percentages, discounts, and tips with built-in shortcuts.
 - Lightweight & Fast: Optimized for speed and performance without draining your device.
 
-**Perfect for:**
+**Perfect For:**
 
 - Intuitive and easy-to-use interface for all ages.
 - Ideal for students, business professionals, and everyday tasks.
