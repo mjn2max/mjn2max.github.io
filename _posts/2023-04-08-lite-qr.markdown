@@ -9,7 +9,7 @@ tag:
 - app store
 projects: true
 hidden: true
-description: Scan and generate QR codes in seconds with this sleek
+description: Quick & Simple QR Code Scanner
 category: project
 author: mjn2max
 externalLink: false
@@ -25,7 +25,11 @@ Lite QR is the fast, simple, and lightweight app for all your QR code needs. Whe
 
 ---
 
-![Screenshot](../assets/images/coming-soon.jpg)
+| -------- | -------- |
+| ![Screenshot 1](../assets/projects/lite-qr/1.png) | ![Screenshot 2](../assets/projects/lite-qr/2.png) |
+
+| -------- | -------- | -------- |
+| ![Screenshot 3](../assets/projects/lite-qr/3.png) | ![Screenshot 4](../assets/projects/lite-qr/4.png) |
 
 ---
 
